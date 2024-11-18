@@ -1,2 +1,1 @@
-# Yedekler
-Elle yazdığım 
+
