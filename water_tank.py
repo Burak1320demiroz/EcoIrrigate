@@ -2,14 +2,14 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 def su_toplama_hesapla(yagis_mm, alan_m2, verimlilik=0.8):
-    yagis_m = yagis_mm / 1000  # mm'den metreye dönüşüm
+    yagis_m = yagis_mm / 1000  
     toplanan_su_m3 = yagis_m * alan_m2
     kullanilabilir_su_m3 = toplanan_su_m3 * verimlilik
     return kullanilabilir_su_m3
 
 def bursa_yagis_verisini_al():
     df = pd.read_csv('yagıs_oranları_mm.csv')
-    df.columns = df.columns.str.strip()  # Sütun başlıklarındaki boşlukları temizle
+    df.columns = df.columns.str.strip()  
     return df
 
 bursa_yagis_df = bursa_yagis_verisini_al()
