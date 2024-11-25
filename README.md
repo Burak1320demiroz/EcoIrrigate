@@ -1,12 +1,42 @@
-Samsung Innovation Campus eğitimine katılarak aldığım eğitim sonu süzenlenen hackathon projemi sizinle paylaşmaktan mutluluk duyarım. 
 
-kullandıgım datasetler:
-yagıs_oranları_mm.csv : türkiyedeki 81 ilin 12 aylık m^2 başına düşen yağmur bilgisi var mm cinsinden. data setini kendim hazırladım ve kullandığım kaynak  :  https://www.mgm.gov.tr/
-su_ihtiyacları.csv : ekin türlerinin yetiştirildiği ortama göre gerekli su ihtiyacını belirlediğimiz dataset. data seti türkçeye cevirip türkiyeye uygun hale getirdim orjinal dataset  :  https://www.kaggle.com/datasets/prateekkkumar/crop-water-requirement
-donem.csv : belirlenen ekim türlerinin ekilme ve hasat dönemlerini önerilen dataset. kendi hazırladığım bi dataset hazırlarken kullandığım kaynak  :
-şehirler.csv : türkiye şehirlerin hava durumu, sıcaklık, toprak nemi, bulunduğu bölge gibi bilgileri iceren dataset. kendim hazırladığım bir dataset ve kullandığım kaynak  :  https://www.mgm.gov.tr/ , https://data.tuik.gov.tr/Kategori/GetKategori?p=tarim-111
 
-yazdıgım kodlar:
-water_tank.py : şehir bilgisi ve yagmur hasadı yapıcagımız alan (m^2) cinsinden girerek yıllık biriken suyu öğreniyoruz.
-water_need.py : ekin türünü, ekilicek hektar ve şehir bilgisini girdi oralara verdiğimiz ; 12 aylık ve yıllık gerken su miktarını cıktı olarak aldığımız kısım.
-water_amount.py : yıllık gereken su ile yıllık biriken suyu karşılaştırdığımız kısım 
+# EcoIrrigate 🌱  
+Samsung Innovation Campus eğitimi kapsamında düzenlenen hackathon için geliştirdiğim projeyi paylaşmaktan mutluluk duyuyorum. Bu proje, tarımsal sulama süreçlerini optimize etmek ve doğal kaynakları daha verimli kullanmak amacıyla tasarlanmıştır.
+
+## Kullanılan Datasetler 📊
+
+### 1. **yağış_oranları_mm.csv**
+   - **Açıklama**: Türkiye'deki 81 ilin 12 aylık m² başına düşen yağmur miktarını (mm cinsinden) içerir. 
+   - **Not**: Bu veri setini kendim hazırladım.
+
+### 2. **su_ihtiyacları.csv**
+   - **Açıklama**: Ekin türlerinin yetiştirildiği ortama göre gerekli su ihtiyacını belirler. Veriyi Türkçeye çevirerek Türkiye'ye uygun hale getirdim.
+   - **Orijinal Dataset**: [Kaggle - Crop Water Requirement](https://www.kaggle.com/datasets/prateekkkumar/crop-water-requirement)
+
+### 3. **dönem.csv**
+   - **Açıklama**: Belirli ekin türlerinin ekim ve hasat dönemlerini içerir. Bu veri setini tamamen kendim hazırladım.
+
+### 4. **şehirler.csv**
+   - **Açıklama**: Türkiye'nin şehir bazında hava durumu, sıcaklık, toprak nemi ve bulunduğu bölge gibi bilgilerini içerir.
+   - - **Not**: Bu veri setini kendim hazırladım.
+
+
+## Yazılan Kodlar 💻
+
+### 1. **water_tank.py**
+   - **Açıklama**: 
+     Şehir bilgisi ve yağmur hasadı yapılacak alanı (m² cinsinden) girerek, yıllık biriken su miktarını hesaplar.
+
+### 2. **water_need.py**
+   - **Açıklama**: 
+     Ekin türünü, ekilecek hektar miktarını ve şehir bilgisini girdikten sonra; 12 aylık ve yıllık gerekli su miktarını çıktı olarak verir.
+
+### 3. **water_amount.py**
+   - **Açıklama**: 
+     Yıllık biriken su miktarı ile yıllık ekin türüne bağlı gerekli su miktarını karşılaştırır ve durumu raporlar.
+
+
+## Kaynaklar 📚
+1. [Meteoroloji Genel Müdürlüğü (MGM)](https://www.mgm.gov.tr/)  
+2. [Türkiye İstatistik Kurumu (TÜİK)](https://data.tuik.gov.tr/Kategori/GetKategori?p=tarim-111)  
+3. [Kaggle - Crop Water Requirement](https://www.kaggle.com/datasets/prateekkkumar/crop-water-requirement)
