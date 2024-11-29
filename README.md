@@ -1,4 +1,4 @@
-
+!! Bu Proje Demodur Eksikleri Vardır Bitmemiştir !!
 
 # EcoIrrigate 🌱  
 Samsung Innovation Campus eğitimi kapsamında düzenlenen hackathon için geliştirdiğim projeyi paylaşmaktan mutluluk duyuyorum. Bu proje, tarımsal sulama süreçlerini optimize etmek ve doğal kaynakları daha verimli kullanmak amacıyla tasarlanmıştır.
