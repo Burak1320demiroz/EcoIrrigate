@@ -1,0 +1,1057 @@
+Şehir,Ay,Toprak Türü,Bölge,Sıcaklık,Hava Durumu
+Bursa,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Bursa,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Bursa,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Bursa,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Bursa,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Bursa,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Bursa,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Bursa,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Bursa,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Bursa,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Bursa,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Bursa,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+İstanbul,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+İstanbul,Şubat,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+İstanbul,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+İstanbul,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+İstanbul,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+İstanbul,Haziran,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+İstanbul,Temmuz,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+İstanbul,Ağustos,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+İstanbul,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+İstanbul,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+İstanbul,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+İstanbul,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Tekirdağ,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Tekirdağ,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Tekirdağ,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Tekirdağ,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Tekirdağ,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Tekirdağ,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Tekirdağ,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Tekirdağ,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Tekirdağ,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Tekirdağ,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Tekirdağ,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Tekirdağ,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Kocaeli,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Kocaeli,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Kocaeli,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Kocaeli,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Kocaeli,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Kocaeli,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Kocaeli,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Kocaeli,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Kocaeli,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Kocaeli,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Kocaeli,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Kocaeli,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Edirne,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Edirne,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Edirne,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Edirne,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Edirne,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Edirne,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Edirne,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Edirne,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Edirne,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Edirne,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Edirne,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Edirne,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Çanakkale,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Çanakkale,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Çanakkale,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Çanakkale,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Çanakkale,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Çanakkale,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Çanakkale,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Çanakkale,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Çanakkale,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Çanakkale,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Çanakkale,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Çanakkale,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Balıkesir,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Balıkesir,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Balıkesir,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Balıkesir,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Balıkesir,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Balıkesir,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Balıkesir,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Balıkesir,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Balıkesir,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Balıkesir,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Balıkesir,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Balıkesir,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Yalova,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Yalova,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Yalova,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Yalova,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Yalova,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Yalova,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Yalova,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Yalova,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Yalova,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Yalova,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Yalova,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Yalova,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Sakarya,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Sakarya,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Sakarya,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Sakarya,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Sakarya,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Sakarya,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Sakarya,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Sakarya,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Sakarya,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Sakarya,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Sakarya,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Sakarya,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Bilecik,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Bilecik,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Bilecik,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Bilecik,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Bilecik,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Bilecik,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Bilecik,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Bilecik,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Bilecik,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Bilecik,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Bilecik,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Bilecik,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Düzce,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Düzce,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Düzce,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Düzce,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Düzce,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Düzce,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Düzce,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Düzce,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Düzce,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Düzce,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Düzce,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Düzce,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Kırklareli,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Kırklareli,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Kırklareli,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Kırklareli,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Kırklareli,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Kırklareli,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Kırklareli,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Kırklareli,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Kırklareli,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Kırklareli,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Kırklareli,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Kırklareli,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Çorlu,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Çorlu,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Çorlu,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Çorlu,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Çorlu,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Çorlu,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Çorlu,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Çorlu,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Çorlu,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Çorlu,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Çorlu,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Çorlu,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+İzmir,Ocak,Nemli,Ege Bölgesi,10-20,Yağmurlu
+İzmir,Şubat,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+İzmir,Mart,Nemli,Ege Bölgesi,10-20,Normal
+İzmir,Nisan,Nemli,Ege Bölgesi,20-30,Normal
+İzmir,Mayıs,Nemli,Ege Bölgesi,20-30,Güneşli
+İzmir,Haziran,Nemli,Ege Bölgesi,20-30,Güneşli
+İzmir,Temmuz,Nemli,Ege Bölgesi,30-40,Güneşli
+İzmir,Ağustos,Nemli,Ege Bölgesi,30-40,Güneşli
+İzmir,Eylül,Nemli,Ege Bölgesi,20-30,Normal
+İzmir,Ekim,Nemli,Ege Bölgesi,20-30,Yağmurlu
+İzmir,Kasım,Nemli,Ege Bölgesi,10-20,Yağmurlu
+İzmir,Aralık,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Aydın,Ocak,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Aydın,Şubat,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Aydın,Mart,Nemli,Ege Bölgesi,10-20,Normal
+Aydın,Nisan,Nemli,Ege Bölgesi,20-30,Normal
+Aydın,Mayıs,Nemli,Ege Bölgesi,20-30,Güneşli
+Aydın,Haziran,Nemli,Ege Bölgesi,20-30,Güneşli
+Aydın,Temmuz,Nemli,Ege Bölgesi,30-40,Güneşli
+Aydın,Ağustos,Nemli,Ege Bölgesi,30-40,Güneşli
+Aydın,Eylül,Nemli,Ege Bölgesi,20-30,Normal
+Aydın,Ekim,Nemli,Ege Bölgesi,20-30,Yağmurlu
+Aydın,Kasım,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Aydın,Aralık,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Manisa,Ocak,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Manisa,Şubat,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Manisa,Mart,Nemli,Ege Bölgesi,10-20,Normal
+Manisa,Nisan,Nemli,Ege Bölgesi,20-30,Normal
+Manisa,Mayıs,Nemli,Ege Bölgesi,20-30,Güneşli
+Manisa,Haziran,Nemli,Ege Bölgesi,20-30,Güneşli
+Manisa,Temmuz,Nemli,Ege Bölgesi,30-40,Güneşli
+Manisa,Ağustos,Nemli,Ege Bölgesi,30-40,Güneşli
+Manisa,Eylül,Nemli,Ege Bölgesi,20-30,Normal
+Manisa,Ekim,Nemli,Ege Bölgesi,20-30,Yağmurlu
+Manisa,Kasım,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Manisa,Aralık,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Muğla,Ocak,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Muğla,Şubat,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Muğla,Mart,Nemli,Ege Bölgesi,10-20,Normal
+Muğla,Nisan,Nemli,Ege Bölgesi,20-30,Normal
+Muğla,Mayıs,Nemli,Ege Bölgesi,20-30,Güneşli
+Muğla,Haziran,Nemli,Ege Bölgesi,20-30,Güneşli
+Muğla,Temmuz,Nemli,Ege Bölgesi,30-40,Güneşli
+Muğla,Ağustos,Nemli,Ege Bölgesi,30-40,Güneşli
+Muğla,Eylül,Nemli,Ege Bölgesi,20-30,Normal
+Muğla,Ekim,Nemli,Ege Bölgesi,20-30,Yağmurlu
+Muğla,Kasım,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Muğla,Aralık,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Denizli,Ocak,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Denizli,Şubat,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Denizli,Mart,Nemli,Ege Bölgesi,10-20,Normal
+Denizli,Nisan,Nemli,Ege Bölgesi,20-30,Normal
+Denizli,Mayıs,Nemli,Ege Bölgesi,20-30,Güneşli
+Denizli,Haziran,Nemli,Ege Bölgesi,20-30,Güneşli
+Denizli,Temmuz,Nemli,Ege Bölgesi,30-40,Güneşli
+Denizli,Ağustos,Nemli,Ege Bölgesi,30-40,Güneşli
+Denizli,Eylül,Nemli,Ege Bölgesi,20-30,Normal
+Denizli,Ekim,Nemli,Ege Bölgesi,20-30,Yağmurlu
+Denizli,Kasım,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Denizli,Aralık,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Kütahya,Ocak,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Kütahya,Şubat,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Kütahya,Mart,Nemli,Ege Bölgesi,10-20,Normal
+Kütahya,Nisan,Nemli,Ege Bölgesi,20-30,Normal
+Kütahya,Mayıs,Nemli,Ege Bölgesi,20-30,Güneşli
+Kütahya,Haziran,Nemli,Ege Bölgesi,20-30,Güneşli
+Kütahya,Temmuz,Nemli,Ege Bölgesi,30-40,Güneşli
+Kütahya,Ağustos,Nemli,Ege Bölgesi,30-40,Güneşli
+Kütahya,Eylül,Nemli,Ege Bölgesi,20-30,Normal
+Kütahya,Ekim,Nemli,Ege Bölgesi,20-30,Yağmurlu
+Kütahya,Kasım,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Kütahya,Aralık,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Uşak,Ocak,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Uşak,Şubat,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Uşak,Mart,Nemli,Ege Bölgesi,10-20,Normal
+Uşak,Nisan,Nemli,Ege Bölgesi,20-30,Normal
+Uşak,Mayıs,Nemli,Ege Bölgesi,20-30,Güneşli
+Uşak,Haziran,Nemli,Ege Bölgesi,20-30,Güneşli
+Uşak,Temmuz,Nemli,Ege Bölgesi,30-40,Güneşli
+Uşak,Ağustos,Nemli,Ege Bölgesi,30-40,Güneşli
+Uşak,Eylül,Nemli,Ege Bölgesi,20-30,Normal
+Uşak,Ekim,Nemli,Ege Bölgesi,20-30,Yağmurlu
+Uşak,Kasım,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Uşak,Aralık,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Afyonkarahisar,Ocak,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Afyonkarahisar,Şubat,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Afyonkarahisar,Mart,Nemli,Ege Bölgesi,10-20,Normal
+Afyonkarahisar,Nisan,Nemli,Ege Bölgesi,20-30,Normal
+Afyonkarahisar,Mayıs,Nemli,Ege Bölgesi,20-30,Güneşli
+Afyonkarahisar,Haziran,Nemli,Ege Bölgesi,20-30,Güneşli
+Afyonkarahisar,Temmuz,Nemli,Ege Bölgesi,30-40,Güneşli
+Afyonkarahisar,Ağustos,Nemli,Ege Bölgesi,30-40,Güneşli
+Afyonkarahisar,Eylül,Nemli,Ege Bölgesi,20-30,Normal
+Afyonkarahisar,Ekim,Nemli,Ege Bölgesi,20-30,Yağmurlu
+Afyonkarahisar,Kasım,Nemli,Ege Bölgesi,10-20,Yağmurlu
+Afyonkarahisar,Aralık,Nemli,Ege Bölgesi,10-20,Rüzgarlı
+Balıkesir,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Balıkesir,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Balıkesir,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Balıkesir,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Balıkesir,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Balıkesir,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Balıkesir,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Balıkesir,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Balıkesir,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Balıkesir,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Balıkesir,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Balıkesir,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Çanakkale,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Çanakkale,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Çanakkale,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Çanakkale,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Çanakkale,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Çanakkale,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Çanakkale,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Çanakkale,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Çanakkale,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Çanakkale,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Çanakkale,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Çanakkale,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Trabzon,Ocak,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Trabzon,Şubat,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Trabzon,Mart,Nemli,Karadeniz Bölgesi,10-20,Normal
+Trabzon,Nisan,Nemli,Karadeniz Bölgesi,20-30,Normal
+Trabzon,Mayıs,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Trabzon,Haziran,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Trabzon,Temmuz,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Trabzon,Ağustos,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Trabzon,Eylül,Nemli,Karadeniz Bölgesi,20-30,Normal
+Trabzon,Ekim,Nemli,Karadeniz Bölgesi,20-30,Yağmurlu
+Trabzon,Kasım,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Trabzon,Aralık,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Samsun,Ocak,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Samsun,Şubat,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Samsun,Mart,Nemli,Karadeniz Bölgesi,10-20,Normal
+Samsun,Nisan,Nemli,Karadeniz Bölgesi,20-30,Normal
+Samsun,Mayıs,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Samsun,Haziran,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Samsun,Temmuz,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Samsun,Ağustos,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Samsun,Eylül,Nemli,Karadeniz Bölgesi,20-30,Normal
+Samsun,Ekim,Nemli,Karadeniz Bölgesi,20-30,Yağmurlu
+Samsun,Kasım,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Samsun,Aralık,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Rize,Ocak,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Rize,Şubat,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Rize,Mart,Nemli,Karadeniz Bölgesi,10-20,Normal
+Rize,Nisan,Nemli,Karadeniz Bölgesi,20-30,Normal
+Rize,Mayıs,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Rize,Haziran,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Rize,Temmuz,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Rize,Ağustos,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Rize,Eylül,Nemli,Karadeniz Bölgesi,20-30,Normal
+Rize,Ekim,Nemli,Karadeniz Bölgesi,20-30,Yağmurlu
+Rize,Kasım,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Rize,Aralık,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Ordu,Ocak,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Ordu,Şubat,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Ordu,Mart,Nemli,Karadeniz Bölgesi,10-20,Normal
+Ordu,Nisan,Nemli,Karadeniz Bölgesi,20-30,Normal
+Ordu,Mayıs,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Ordu,Haziran,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Ordu,Temmuz,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Ordu,Ağustos,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Ordu,Eylül,Nemli,Karadeniz Bölgesi,20-30,Normal
+Ordu,Ekim,Nemli,Karadeniz Bölgesi,20-30,Yağmurlu
+Ordu,Kasım,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Ordu,Aralık,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Giresun,Ocak,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Giresun,Şubat,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Giresun,Mart,Nemli,Karadeniz Bölgesi,10-20,Normal
+Giresun,Nisan,Nemli,Karadeniz Bölgesi,20-30,Normal
+Giresun,Mayıs,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Giresun,Haziran,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Giresun,Temmuz,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Giresun,Ağustos,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Giresun,Eylül,Nemli,Karadeniz Bölgesi,20-30,Normal
+Giresun,Ekim,Nemli,Karadeniz Bölgesi,20-30,Yağmurlu
+Giresun,Kasım,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Giresun,Aralık,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Zonguldak,Ocak,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Zonguldak,Şubat,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Zonguldak,Mart,Nemli,Karadeniz Bölgesi,10-20,Normal
+Zonguldak,Nisan,Nemli,Karadeniz Bölgesi,20-30,Normal
+Zonguldak,Mayıs,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Zonguldak,Haziran,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Zonguldak,Temmuz,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Zonguldak,Ağustos,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Zonguldak,Eylül,Nemli,Karadeniz Bölgesi,20-30,Normal
+Zonguldak,Ekim,Nemli,Karadeniz Bölgesi,20-30,Yağmurlu
+Zonguldak,Kasım,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Zonguldak,Aralık,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Sinop,Ocak,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Sinop,Şubat,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Sinop,Mart,Nemli,Karadeniz Bölgesi,10-20,Normal
+Sinop,Nisan,Nemli,Karadeniz Bölgesi,20-30,Normal
+Sinop,Mayıs,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Sinop,Haziran,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Sinop,Temmuz,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Sinop,Ağustos,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Sinop,Eylül,Nemli,Karadeniz Bölgesi,20-30,Normal
+Sinop,Ekim,Nemli,Karadeniz Bölgesi,20-30,Yağmurlu
+Sinop,Kasım,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Sinop,Aralık,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Amasya,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Amasya,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Amasya,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Amasya,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Amasya,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Amasya,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Amasya,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Amasya,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Amasya,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Amasya,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Amasya,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Amasya,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Bolu,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bolu,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Bolu,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Bolu,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Bolu,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Bolu,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Bolu,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Bolu,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Bolu,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Bolu,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Bolu,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bolu,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Artvin,Ocak,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Artvin,Şubat,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Artvin,Mart,Nemli,Karadeniz Bölgesi,10-20,Normal
+Artvin,Nisan,Nemli,Karadeniz Bölgesi,20-30,Normal
+Artvin,Mayıs,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Artvin,Haziran,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Artvin,Temmuz,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Artvin,Ağustos,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Artvin,Eylül,Nemli,Karadeniz Bölgesi,20-30,Normal
+Artvin,Ekim,Nemli,Karadeniz Bölgesi,20-30,Yağmurlu
+Artvin,Kasım,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Artvin,Aralık,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Bartın,Ocak,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Bartın,Şubat,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Bartın,Mart,Nemli,Karadeniz Bölgesi,10-20,Normal
+Bartın,Nisan,Nemli,Karadeniz Bölgesi,20-30,Normal
+Bartın,Mayıs,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Bartın,Haziran,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Bartın,Temmuz,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Bartın,Ağustos,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Bartın,Eylül,Nemli,Karadeniz Bölgesi,20-30,Normal
+Bartın,Ekim,Nemli,Karadeniz Bölgesi,20-30,Yağmurlu
+Bartın,Kasım,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Bartın,Aralık,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Bayburt,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bayburt,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Bayburt,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Bayburt,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Bayburt,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Bayburt,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Bayburt,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Bayburt,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Bayburt,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Bayburt,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Bayburt,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bayburt,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Tokat,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Tokat,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Tokat,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Tokat,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Tokat,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Tokat,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Tokat,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Tokat,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Tokat,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Tokat,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Tokat,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Tokat,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Çorum,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Çorum,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Çorum,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Çorum,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Çorum,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Çorum,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Çorum,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Çorum,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Çorum,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Çorum,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Çorum,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Çorum,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Kastamonu,Ocak,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Kastamonu,Şubat,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Kastamonu,Mart,Nemli,Karadeniz Bölgesi,10-20,Normal
+Kastamonu,Nisan,Nemli,Karadeniz Bölgesi,20-30,Normal
+Kastamonu,Mayıs,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Kastamonu,Haziran,Nemli,Karadeniz Bölgesi,20-30,Güneşli
+Kastamonu,Temmuz,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Kastamonu,Ağustos,Nemli,Karadeniz Bölgesi,30-40,Güneşli
+Kastamonu,Eylül,Nemli,Karadeniz Bölgesi,20-30,Normal
+Kastamonu,Ekim,Nemli,Karadeniz Bölgesi,20-30,Yağmurlu
+Kastamonu,Kasım,Nemli,Karadeniz Bölgesi,10-20,Yağmurlu
+Kastamonu,Aralık,Nemli,Karadeniz Bölgesi,10-20,Rüzgarlı
+Ankara,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Ankara,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Ankara,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Ankara,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Ankara,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Ankara,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Ankara,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Ankara,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Ankara,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Ankara,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Ankara,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Ankara,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Konya,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Konya,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Konya,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Konya,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Konya,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Konya,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Konya,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Konya,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Konya,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Konya,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Konya,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Konya,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Kayseri,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Kayseri,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Kayseri,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Kayseri,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Kayseri,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Kayseri,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Kayseri,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Kayseri,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Kayseri,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Kayseri,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Kayseri,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Kayseri,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Eskişehir,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Eskişehir,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Eskişehir,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Eskişehir,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Eskişehir,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Eskişehir,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Eskişehir,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Eskişehir,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Eskişehir,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Eskişehir,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Eskişehir,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Eskişehir,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Kırıkkale,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Kırıkkale,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Kırıkkale,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Kırıkkale,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Kırıkkale,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Kırıkkale,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Kırıkkale,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Kırıkkale,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Kırıkkale,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Kırıkkale,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Kırıkkale,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Kırıkkale,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Aksaray,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Aksaray,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Aksaray,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Aksaray,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Aksaray,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Aksaray,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Aksaray,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Aksaray,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Aksaray,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Aksaray,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Aksaray,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Aksaray,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Çankırı,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Çankırı,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Çankırı,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Çankırı,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Çankırı,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Çankırı,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Çankırı,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Çankırı,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Çankırı,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Çankırı,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Çankırı,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Çankırı,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Karaman,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Karaman,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Karaman,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Karaman,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Karaman,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Karaman,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Karaman,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Karaman,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Karaman,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Karaman,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Karaman,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Karaman,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Kırşehir,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Kırşehir,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Kırşehir,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Kırşehir,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Kırşehir,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Kırşehir,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Kırşehir,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Kırşehir,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Kırşehir,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Kırşehir,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Kırşehir,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Kırşehir,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Nevşehir,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Nevşehir,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Nevşehir,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Nevşehir,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Nevşehir,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Nevşehir,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Nevşehir,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Nevşehir,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Nevşehir,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Nevşehir,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Nevşehir,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Nevşehir,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Sivas,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Sivas,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Sivas,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Sivas,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Sivas,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Sivas,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Sivas,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Sivas,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Sivas,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Sivas,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Sivas,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Sivas,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Niğde,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Niğde,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Niğde,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Niğde,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Niğde,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Niğde,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Niğde,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Niğde,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Niğde,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Niğde,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Niğde,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Niğde,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Yozgat,Ocak,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Yozgat,Şubat,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Yozgat,Mart,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal
+Yozgat,Nisan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Yozgat,Mayıs,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Yozgat,Haziran,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Yozgat,Temmuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Yozgat,Ağustos,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Yozgat,Eylül,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Yozgat,Ekim,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Yozgat,Kasım,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Yozgat,Aralık,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Rüzgarlı
+Bolu,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Bolu,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Bolu,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Bolu,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Bolu,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Bolu,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Bolu,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Bolu,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Bolu,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Bolu,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Bolu,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Bolu,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Düzce,Ocak,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Düzce,Şubat,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Düzce,Mart,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal
+Düzce,Nisan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Düzce,Mayıs,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Düzce,Haziran,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli
+Düzce,Temmuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Düzce,Ağustos,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli
+Düzce,Eylül,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal
+Düzce,Ekim,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu
+Düzce,Kasım,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu
+Düzce,Aralık,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Rüzgarlı
+Erzurum,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Erzurum,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Erzurum,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Erzurum,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Erzurum,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Erzurum,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Erzurum,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Erzurum,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Erzurum,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Erzurum,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Erzurum,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Erzurum,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Malatya,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Malatya,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Malatya,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Malatya,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Malatya,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Malatya,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Malatya,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Malatya,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Malatya,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Malatya,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Malatya,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Malatya,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Van,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Van,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Van,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Van,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Van,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Van,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Van,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Van,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Van,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Van,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Van,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Van,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bingöl,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bingöl,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bingöl,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bingöl,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Bingöl,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Bingöl,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Bingöl,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Bingöl,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Bingöl,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Bingöl,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Bingöl,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bingöl,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Elazığ,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Elazığ,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Elazığ,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Elazığ,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Elazığ,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Elazığ,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Elazığ,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Elazığ,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Elazığ,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Elazığ,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Elazığ,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Elazığ,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Ağrı,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Ağrı,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Ağrı,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Ağrı,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Ağrı,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Ağrı,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Ağrı,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Ağrı,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Ağrı,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Ağrı,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Ağrı,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Ağrı,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Kars,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Kars,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Kars,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Kars,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Kars,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Kars,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Kars,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Kars,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Kars,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Kars,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Kars,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Kars,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bitlis,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bitlis,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bitlis,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bitlis,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Bitlis,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Bitlis,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Bitlis,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Bitlis,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Bitlis,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Bitlis,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Bitlis,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Bitlis,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Iğdır,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Iğdır,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Iğdır,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Iğdır,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Iğdır,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Iğdır,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Iğdır,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Iğdır,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Iğdır,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Iğdır,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Iğdır,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Iğdır,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Hakkari,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Hakkari,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Hakkari,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Hakkari,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Hakkari,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Hakkari,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Hakkari,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Hakkari,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Hakkari,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Hakkari,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Hakkari,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Hakkari,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Muş,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Muş,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Muş,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Muş,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Muş,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Muş,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Muş,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Muş,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Muş,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Muş,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Muş,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Muş,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Sivas,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Sivas,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Sivas,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Sivas,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Sivas,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Sivas,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Sivas,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Sivas,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Sivas,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Sivas,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Sivas,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Sivas,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Erzincan,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Erzincan,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Erzincan,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Erzincan,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Erzincan,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Erzincan,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Erzincan,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Erzincan,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Erzincan,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Erzincan,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Erzincan,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Erzincan,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Tunceli,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Tunceli,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Tunceli,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Tunceli,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Tunceli,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Tunceli,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Tunceli,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Tunceli,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Tunceli,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Tunceli,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Tunceli,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Tunceli,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Ardahan,Ocak,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Ardahan,Şubat,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Ardahan,Mart,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Ardahan,Nisan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Ardahan,Mayıs,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Ardahan,Haziran,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli
+Ardahan,Temmuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Ardahan,Ağustos,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli
+Ardahan,Eylül,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal
+Ardahan,Ekim,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu
+Ardahan,Kasım,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Ardahan,Aralık,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu
+Antalya,Ocak,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Antalya,Şubat,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Antalya,Mart,Nemli,Akdeniz Bölgesi,10-20,Normal
+Antalya,Nisan,Nemli,Akdeniz Bölgesi,20-30,Normal
+Antalya,Mayıs,Nemli,Akdeniz Bölgesi,20-30,Güneşli
+Antalya,Haziran,Nemli,Akdeniz Bölgesi,20-30,Güneşli
+Antalya,Temmuz,Nemli,Akdeniz Bölgesi,30-40,Güneşli
+Antalya,Ağustos,Nemli,Akdeniz Bölgesi,30-40,Güneşli
+Antalya,Eylül,Nemli,Akdeniz Bölgesi,20-30,Normal
+Antalya,Ekim,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu
+Antalya,Kasım,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Antalya,Aralık,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Mersin,Ocak,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Mersin,Şubat,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Mersin,Mart,Nemli,Akdeniz Bölgesi,10-20,Normal
+Mersin,Nisan,Nemli,Akdeniz Bölgesi,20-30,Normal
+Mersin,Mayıs,Nemli,Akdeniz Bölgesi,20-30,Güneşli
+Mersin,Haziran,Nemli,Akdeniz Bölgesi,20-30,Güneşli
+Mersin,Temmuz,Nemli,Akdeniz Bölgesi,30-40,Güneşli
+Mersin,Ağustos,Nemli,Akdeniz Bölgesi,30-40,Güneşli
+Mersin,Eylül,Nemli,Akdeniz Bölgesi,20-30,Normal
+Mersin,Ekim,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu
+Mersin,Kasım,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Mersin,Aralık,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Adana,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Adana,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Adana,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Adana,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Adana,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Adana,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Adana,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Adana,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Adana,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Adana,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Adana,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Adana,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Hatay,Ocak,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Hatay,Şubat,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Hatay,Mart,Nemli,Akdeniz Bölgesi,10-20,Normal
+Hatay,Nisan,Nemli,Akdeniz Bölgesi,20-30,Normal
+Hatay,Mayıs,Nemli,Akdeniz Bölgesi,20-30,Güneşli
+Hatay,Haziran,Nemli,Akdeniz Bölgesi,20-30,Güneşli
+Hatay,Temmuz,Nemli,Akdeniz Bölgesi,30-40,Güneşli
+Hatay,Ağustos,Nemli,Akdeniz Bölgesi,30-40,Güneşli
+Hatay,Eylül,Nemli,Akdeniz Bölgesi,20-30,Normal
+Hatay,Ekim,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu
+Hatay,Kasım,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Hatay,Aralık,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Kahramanmaraş,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Kahramanmaraş,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Kahramanmaraş,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Kahramanmaraş,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Kahramanmaraş,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Kahramanmaraş,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Kahramanmaraş,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Kahramanmaraş,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Kahramanmaraş,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Kahramanmaraş,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Kahramanmaraş,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Kahramanmaraş,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Osmaniye,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Osmaniye,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Osmaniye,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Osmaniye,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Osmaniye,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Osmaniye,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Osmaniye,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Osmaniye,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Osmaniye,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Osmaniye,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Osmaniye,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Osmaniye,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Isparta,Ocak,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Isparta,Şubat,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Isparta,Mart,Nemli,Akdeniz Bölgesi,10-20,Normal
+Isparta,Nisan,Nemli,Akdeniz Bölgesi,20-30,Normal
+Isparta,Mayıs,Nemli,Akdeniz Bölgesi,20-30,Güneşli
+Isparta,Haziran,Nemli,Akdeniz Bölgesi,20-30,Güneşli
+Isparta,Temmuz,Nemli,Akdeniz Bölgesi,30-40,Güneşli
+Isparta,Ağustos,Nemli,Akdeniz Bölgesi,30-40,Güneşli
+Isparta,Eylül,Nemli,Akdeniz Bölgesi,20-30,Normal
+Isparta,Ekim,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu
+Isparta,Kasım,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Isparta,Aralık,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Burdur,Ocak,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Burdur,Şubat,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Burdur,Mart,Nemli,Akdeniz Bölgesi,10-20,Normal
+Burdur,Nisan,Nemli,Akdeniz Bölgesi,20-30,Normal
+Burdur,Mayıs,Nemli,Akdeniz Bölgesi,20-30,Güneşli
+Burdur,Haziran,Nemli,Akdeniz Bölgesi,20-30,Güneşli
+Burdur,Temmuz,Nemli,Akdeniz Bölgesi,30-40,Güneşli
+Burdur,Ağustos,Nemli,Akdeniz Bölgesi,30-40,Güneşli
+Burdur,Eylül,Nemli,Akdeniz Bölgesi,20-30,Normal
+Burdur,Ekim,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu
+Burdur,Kasım,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Burdur,Aralık,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu
+Şanlıurfa,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Şanlıurfa,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Şanlıurfa,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Şanlıurfa,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Şanlıurfa,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Şanlıurfa,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Şanlıurfa,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Şanlıurfa,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Şanlıurfa,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Şanlıurfa,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Şanlıurfa,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Şanlıurfa,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Gaziantep,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Gaziantep,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Gaziantep,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Gaziantep,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Gaziantep,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Gaziantep,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Gaziantep,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Gaziantep,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Gaziantep,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Gaziantep,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Gaziantep,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Gaziantep,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Şanlıurfa,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Şanlıurfa,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Şanlıurfa,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Şanlıurfa,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Şanlıurfa,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Şanlıurfa,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Şanlıurfa,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Şanlıurfa,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Şanlıurfa,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Şanlıurfa,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Şanlıurfa,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Şanlıurfa,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Diyarbakır,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Diyarbakır,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Diyarbakır,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Diyarbakır,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Diyarbakır,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Diyarbakır,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Diyarbakır,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Diyarbakır,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Diyarbakır,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Diyarbakır,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Diyarbakır,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Diyarbakır,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Mardin,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Mardin,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Mardin,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Mardin,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Mardin,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Mardin,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Mardin,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Mardin,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Mardin,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Mardin,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Mardin,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Mardin,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Batman,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Batman,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Batman,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Batman,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Batman,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Batman,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Batman,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Batman,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Batman,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Batman,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Batman,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Batman,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Bingöl,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Bingöl,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Bingöl,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Bingöl,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Bingöl,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Bingöl,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Bingöl,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Bingöl,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Bingöl,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Bingöl,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Bingöl,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Bingöl,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Siirt,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Siirt,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Siirt,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Siirt,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Siirt,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Siirt,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Siirt,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Siirt,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Siirt,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Siirt,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Siirt,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Siirt,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Kilis,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Kilis,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Kilis,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Kilis,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Kilis,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Kilis,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Kilis,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Kilis,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Kilis,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Kilis,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Kilis,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Kilis,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Adıyaman,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Adıyaman,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Adıyaman,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Adıyaman,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Adıyaman,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Adıyaman,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Adıyaman,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Adıyaman,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Adıyaman,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Adıyaman,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Adıyaman,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Adıyaman,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Şanlıurfa,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Şanlıurfa,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Şanlıurfa,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Şanlıurfa,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Şanlıurfa,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Şanlıurfa,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Şanlıurfa,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Şanlıurfa,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Şanlıurfa,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Şanlıurfa,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Şanlıurfa,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Şanlıurfa,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Hakkari,Ocak,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Hakkari,Şubat,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Hakkari,Mart,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal
+Hakkari,Nisan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Hakkari,Mayıs,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Hakkari,Haziran,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli
+Hakkari,Temmuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Hakkari,Ağustos,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli
+Hakkari,Eylül,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal
+Hakkari,Ekim,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu
+Hakkari,Kasım,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu
+Hakkari,Aralık,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu

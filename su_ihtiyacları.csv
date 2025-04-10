@@ -1,0 +1,2881 @@
+EKİN TÜRÜ,TOPRAK TİPİ,BÖLGE,SICAKLIK,HAVA DURUMU,SU İHTİYACI
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,8.75
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,10.25
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,9.65
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.75
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,9.85
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,11.35
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,10.75
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.85
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,10.75
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,12.25
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,11.65
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,2.75
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,11.75
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,13.25
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,12.65
+Muz,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,3.75
+Muz,Kuru,Akdeniz Bölgesi,10-20,Normal,7.98
+Muz,Kuru,Akdeniz Bölgesi,10-20,Güneşli,9.4
+Muz,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,8.8
+Muz,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,0.25
+Muz,Kuru,Akdeniz Bölgesi,20-30,Normal,8.98
+Muz,Kuru,Akdeniz Bölgesi,20-30,Güneşli,10.4
+Muz,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,9.7
+Muz,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,0.98
+Muz,Kuru,Akdeniz Bölgesi,30-40,Normal,9.98
+Muz,Kuru,Akdeniz Bölgesi,30-40,Güneşli,11.4
+Muz,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,10.8
+Muz,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,1.98
+Muz,Kuru,Akdeniz Bölgesi,40-50,Normal,10.9
+Muz,Kuru,Akdeniz Bölgesi,40-50,Güneşli,12.4
+Muz,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,11.8
+Muz,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,2.7
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,6.95
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,8.45
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,7.8
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,7.95
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,9.45
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,8.8
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.5
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,8.95
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,10.45
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,9.9
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.95
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,9.9
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,11.4
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,10.9
+Muz,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,1.9
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,5.65
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,7.15
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,6.6
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,6.6
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,8.1
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,7.6
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.3
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,7.68
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,8.18
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,8.6
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.8
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,8.65
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,10.15
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,9.65
+Muz,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.65
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,6.695
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,8.2
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,7.7
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.6
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,7.695
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,9.2
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,8.7
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,8.7
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,10.2
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,9.6
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.7
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,9.5
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,11.0
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,10.5
+Muz,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,1.5
+Muz,Nemli,Akdeniz Bölgesi,10-20,Normal,5.92
+Muz,Nemli,Akdeniz Bölgesi,10-20,Güneşli,7.42
+Muz,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,6.9
+Muz,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Muz,Nemli,Akdeniz Bölgesi,20-30,Normal,6.92
+Muz,Nemli,Akdeniz Bölgesi,20-30,Güneşli,8.42
+Muz,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,7.9
+Muz,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,0.5
+Muz,Nemli,Akdeniz Bölgesi,30-40,Normal,7.92
+Muz,Nemli,Akdeniz Bölgesi,30-40,Güneşli,9.42
+Muz,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,8.9
+Muz,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,0.8
+Muz,Nemli,Akdeniz Bölgesi,40-50,Normal,8.92
+Muz,Nemli,Akdeniz Bölgesi,40-50,Güneşli,10.42
+Muz,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,9.9
+Muz,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,0.92
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,4.89
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,6.39
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,5.8
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,5.6
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,7.1
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,6.6
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,6.5
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,8.1
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,7.5
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,7.5
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,9.0
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,8.5
+Muz,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,3.65
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,5.15
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,4.65
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,4.65
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,6.15
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,5.65
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.2
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,5.0
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,6.5
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,6.0
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.3
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.15
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.65
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.2
+Muz,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.2
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,5.15
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,6.65
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,6.15
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,6.15
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,7.65
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,7.15
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,7.15
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,8.65
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,8.1
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,8.15
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,9.65
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,9.15
+Muz,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.15
+Muz,Islak,Akdeniz Bölgesi,10-20,Normal,4.37
+Muz,Islak,Akdeniz Bölgesi,10-20,Güneşli,5.87
+Muz,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,5.3
+Muz,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Muz,Islak,Akdeniz Bölgesi,20-30,Normal,5.3
+Muz,Islak,Akdeniz Bölgesi,20-30,Güneşli,6.8
+Muz,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,6.3
+Muz,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,0.2
+Muz,Islak,Akdeniz Bölgesi,30-40,Normal,6.3
+Muz,Islak,Akdeniz Bölgesi,30-40,Güneşli,7.8
+Muz,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,7.3
+Muz,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,0.3
+Muz,Islak,Akdeniz Bölgesi,40-50,Normal,7.2
+Muz,Islak,Akdeniz Bölgesi,40-50,Güneşli,8.7
+Muz,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,8.2
+Muz,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,0.8
+Muz,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.345
+Muz,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,4.85
+Muz,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,4.4
+Muz,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Muz,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.4
+Muz,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,5.9
+Muz,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,5.4
+Muz,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.1
+Muz,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,5.54
+Muz,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,7.04
+Muz,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,6.5
+Muz,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.2
+Muz,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,6.52
+Muz,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,8.02
+Muz,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,7.5
+Muz,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.3
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.06
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,3.56
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.0
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.0
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.5
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,4.0
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.1
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.6
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,5.1
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.1
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.15
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.65
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.15
+Muz,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.2
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,6.97
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,8.47
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,7.8
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,7.9
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,9.4
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,8.9
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,8.8
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,10.3
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,9.8
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,9.95
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,11.45
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,10.95
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,1.95
+Fasulye,Kuru,Akdeniz Bölgesi,10-20,Normal,7.98
+Fasulye,Kuru,Akdeniz Bölgesi,10-20,Güneşli,9.48
+Fasulye,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,8.9
+Fasulye,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,0.8
+Fasulye,Kuru,Akdeniz Bölgesi,20-30,Normal,8.6
+Fasulye,Kuru,Akdeniz Bölgesi,20-30,Güneşli,10.1
+Fasulye,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,9.6
+Fasulye,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,0.6
+Fasulye,Kuru,Akdeniz Bölgesi,30-40,Normal,9.8
+Fasulye,Kuru,Akdeniz Bölgesi,30-40,Güneşli,11.3
+Fasulye,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,10.8
+Fasulye,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,1.8
+Fasulye,Kuru,Akdeniz Bölgesi,40-50,Normal,10.95
+Fasulye,Kuru,Akdeniz Bölgesi,40-50,Güneşli,12.45
+Fasulye,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,11.8
+Fasulye,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,2.8
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,5.53
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,7.03
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,6.5
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,6.5
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,8.0
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,7.5
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.5
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,7.6
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,9.0
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,8.6
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,8.55
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,10.05
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,9.5
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.55
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,4.51
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,6.01
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,5.51
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,5.5
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,7.0
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,6.5
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.2
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,6.5
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,8.0
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,7.5
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.2
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,7.8
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,9.3
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,8.8
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.8
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,5.33
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,6.83
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,6.33
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.5
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,6.2
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,7.7
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,7.2
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,7.4
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,8.9
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,8.4
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,8.34
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,9.85
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,7.35
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.34
+Fasulye,Nemli,Akdeniz Bölgesi,10-20,Normal,4.71
+Fasulye,Nemli,Akdeniz Bölgesi,10-20,Güneşli,6.21
+Fasulye,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,5.71
+Fasulye,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Nemli,Akdeniz Bölgesi,20-30,Normal,5.8
+Fasulye,Nemli,Akdeniz Bölgesi,20-30,Güneşli,7.3
+Fasulye,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,6.8
+Fasulye,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,0.2
+Fasulye,Nemli,Akdeniz Bölgesi,30-40,Normal,6.6
+Fasulye,Nemli,Akdeniz Bölgesi,30-40,Güneşli,8.1
+Fasulye,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,7.6
+Fasulye,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,0.5
+Fasulye,Nemli,Akdeniz Bölgesi,40-50,Normal,7.9
+Fasulye,Nemli,Akdeniz Bölgesi,40-50,Güneşli,9.4
+Fasulye,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,8.9
+Fasulye,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,0.6
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.9
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,5.4
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,4.9
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.9
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,6.4
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,5.9
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.1
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,5.8
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,7.3
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,6.8
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,6.7
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,8.2
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,7.7
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.4
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.8
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,4.3
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.8
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.7
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,5.2
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,4.7
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.9
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,6.4
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,5.9
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.5
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.8
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,7.3
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.8
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.3
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,4.1
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,5.6
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,5.1
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,5.1
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,6.6
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,6.1
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.4
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,6.2
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,7.7
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,7.2
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,7.3
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,8.8
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,8.3
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Fasulye,Islak,Akdeniz Bölgesi,10-20,Normal,3.5
+Fasulye,Islak,Akdeniz Bölgesi,10-20,Güneşli,5.0
+Fasulye,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,4.5
+Fasulye,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Islak,Akdeniz Bölgesi,20-30,Normal,4.6
+Fasulye,Islak,Akdeniz Bölgesi,20-30,Güneşli,6.1
+Fasulye,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,5.6
+Fasulye,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,0.2
+Fasulye,Islak,Akdeniz Bölgesi,30-40,Normal,5.7
+Fasulye,Islak,Akdeniz Bölgesi,30-40,Güneşli,7.2
+Fasulye,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,6.7
+Fasulye,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,0.3
+Fasulye,Islak,Akdeniz Bölgesi,40-50,Normal,6.6
+Fasulye,Islak,Akdeniz Bölgesi,40-50,Güneşli,8.1
+Fasulye,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,7.6
+Fasulye,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,0.5
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,2.6
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,4.1
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,3.6
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,3.6
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,5.1
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,4.6
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.1
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,4.7
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,6.2
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,5.7
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.1
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,5.6
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,7.1
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,6.6
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.3
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,1.64
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,3.14
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,2.6
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,2.6
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.1
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,3.6
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,3.7
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.2
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,4.6
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.1
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,4.6
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.1
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,5.6
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.1
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,5.5
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,7.0
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,6.5
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,6.5
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,8.0
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,7.5
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.5
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,7.0
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,8.5
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,8.0
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,8.6
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,10.1
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,9.6
+Lahana,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.6
+Lahana,Kuru,Akdeniz Bölgesi,10-20,Normal,5.05
+Lahana,Kuru,Akdeniz Bölgesi,10-20,Güneşli,6.55
+Lahana,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,6.05
+Lahana,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,0.5
+Lahana,Kuru,Akdeniz Bölgesi,20-30,Normal,6.0
+Lahana,Kuru,Akdeniz Bölgesi,20-30,Güneşli,7.5
+Lahana,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,7.0
+Lahana,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,0.5
+Lahana,Kuru,Akdeniz Bölgesi,30-40,Normal,7.1
+Lahana,Kuru,Akdeniz Bölgesi,30-40,Güneşli,8.6
+Lahana,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,8.1
+Lahana,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,0.8
+Lahana,Kuru,Akdeniz Bölgesi,40-50,Normal,8.0
+Lahana,Kuru,Akdeniz Bölgesi,40-50,Güneşli,9.5
+Lahana,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,9.0
+Lahana,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,0.8
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,4.4
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,5.9
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,5.5
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,5.3
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,6.8
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,6.3
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,6.2
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,7.7
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,7.2
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,7.5
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,9.0
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,8.5
+Lahana,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,3.6
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,5.1
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,4.6
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,4.5
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,6.0
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,5.5
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.2
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,5.6
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,7.1
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,6.6
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.2
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,6.6
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,8.1
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,7.6
+Lahana,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.5
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,4.2
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,5.7
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,5.2
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,5.3
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,6.8
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,6.3
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,6.2
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,7.7
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,7.2
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,7.4
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,8.9
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,8.4
+Lahana,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Lahana,Nemli,Akdeniz Bölgesi,10-20,Normal,3.7
+Lahana,Nemli,Akdeniz Bölgesi,10-20,Güneşli,5.2
+Lahana,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,4.7
+Lahana,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Lahana,Nemli,Akdeniz Bölgesi,20-30,Normal,4.6
+Lahana,Nemli,Akdeniz Bölgesi,20-30,Güneşli,6.1
+Lahana,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,5.6
+Lahana,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,0.2
+Lahana,Nemli,Akdeniz Bölgesi,30-40,Normal,5.5
+Lahana,Nemli,Akdeniz Bölgesi,30-40,Güneşli,7.0
+Lahana,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,6.5
+Lahana,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,0.3
+Lahana,Nemli,Akdeniz Bölgesi,40-50,Normal,6.6
+Lahana,Nemli,Akdeniz Bölgesi,40-50,Güneşli,8.1
+Lahana,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,7.6
+Lahana,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,0.5
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.1
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,4.6
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,4.1
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.2
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,5.7
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,5.2
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,5.1
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,6.6
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,6.1
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,6.0
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,7.5
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,7.0
+Lahana,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.3
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,3.8
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.3
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.33
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.8
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,4.3
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.33
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.8
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,5.3
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.2
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.33
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.8
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.3
+Lahana,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.3
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,3.33
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,4.8
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,4.3
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,4.33
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,5.8
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,5.3
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,5.33
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,6.8
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,6.3
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,6.33
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,7.8
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,7.3
+Lahana,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+Lahana,Islak,Akdeniz Bölgesi,10-20,Normal,2.83
+Lahana,Islak,Akdeniz Bölgesi,10-20,Güneşli,4.33
+Lahana,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,3.83
+Lahana,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Lahana,Islak,Akdeniz Bölgesi,20-30,Normal,3.83
+Lahana,Islak,Akdeniz Bölgesi,20-30,Güneşli,5.33
+Lahana,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,4.83
+Lahana,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,0.1
+Lahana,Islak,Akdeniz Bölgesi,30-40,Normal,4.83
+Lahana,Islak,Akdeniz Bölgesi,30-40,Güneşli,6.33
+Lahana,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,5.83
+Lahana,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,0.2
+Lahana,Islak,Akdeniz Bölgesi,40-50,Normal,5.83
+Lahana,Islak,Akdeniz Bölgesi,40-50,Güneşli,7.33
+Lahana,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,6.83
+Lahana,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,0.3
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,2.16
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,3.66
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,3.16
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,3.16
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,4.66
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,4.16
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.1
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,4.16
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,5.66
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,5.16
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.2
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,5.16
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,6.66
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,6.16
+Lahana,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.3
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,1.33
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,2.83
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,2.33
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,2.33
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,3.83
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,3.33
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,3.33
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,4.83
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,4.33
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.1
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,4.33
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,5.83
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,5.33
+Lahana,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.2
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,8.5
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,10.0
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,9.5
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.5
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,9.5
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,11.0
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,10.5
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,1.5
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,10.7
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,12.2
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,11.7
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,2.7
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,11.6
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,13.1
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,12.6
+POTATO,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,3.6
+POTATO,Kuru,Akdeniz Bölgesi,10-20,Normal,7.8
+POTATO,Kuru,Akdeniz Bölgesi,10-20,Güneşli,9.3
+POTATO,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,8.8
+POTATO,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,0.8
+POTATO,Kuru,Akdeniz Bölgesi,20-30,Normal,8.8
+POTATO,Kuru,Akdeniz Bölgesi,20-30,Güneşli,10.3
+POTATO,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,9.8
+POTATO,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,0.8
+POTATO,Kuru,Akdeniz Bölgesi,30-40,Normal,9.8
+POTATO,Kuru,Akdeniz Bölgesi,30-40,Güneşli,11.3
+POTATO,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,10.8
+POTATO,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,1.8
+POTATO,Kuru,Akdeniz Bölgesi,40-50,Normal,10.9
+POTATO,Kuru,Akdeniz Bölgesi,40-50,Güneşli,12.4
+POTATO,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,11.8
+POTATO,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,2.9
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,6.75
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,8.25
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,7.75
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.25
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,7.75
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,9.25
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,8.75
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,8.8
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,10.3
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,9.8
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,9.75
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,11.25
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,10.75
+POTATO,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,1.75
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,5.45
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,6.95
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,6.45
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.3
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,6.5
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,8.0
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,7.5
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.5
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,7.6
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,9.1
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,8.6
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.8
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,8.5
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,10.0
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,9.5
+POTATO,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.5
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,6.7
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,8.2
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,7.7
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.5
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,7.7
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,9.2
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,8.7
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,8.7
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,10.2
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,9.7
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.7
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,9.5
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,11.0
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,10.5
+POTATO,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,1.5
+POTATO,Nemli,Akdeniz Bölgesi,10-20,Normal,5.62
+POTATO,Nemli,Akdeniz Bölgesi,10-20,Güneşli,7.12
+POTATO,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,6.62
+POTATO,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,0.3
+POTATO,Nemli,Akdeniz Bölgesi,20-30,Normal,6.62
+POTATO,Nemli,Akdeniz Bölgesi,20-30,Güneşli,8.12
+POTATO,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,7.62
+POTATO,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,0.5
+POTATO,Nemli,Akdeniz Bölgesi,30-40,Normal,7.7
+POTATO,Nemli,Akdeniz Bölgesi,30-40,Güneşli,9.2
+POTATO,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,8.7
+POTATO,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,0.8
+POTATO,Nemli,Akdeniz Bölgesi,40-50,Normal,8.6
+POTATO,Nemli,Akdeniz Bölgesi,40-50,Güneşli,10.1
+POTATO,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,9.6
+POTATO,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,2.1
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,4.6
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,6.1
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,5.6
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,5.5
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,7.0
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,6.5
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,6.5
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,8.0
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,7.5
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,7.5
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,9.0
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,8.5
+POTATO,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,3.65
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,5.15
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,4.65
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,4.65
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,6.15
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,5.65
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.2
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,5.0
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,6.5
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,6.0
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.3
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.15
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.95
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.15
+POTATO,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.3
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,5.15
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,6.95
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,6.15
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.3
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,6.15
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,7.65
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,7.15
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.5
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,7.15
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,8.65
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,8.15
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,8.15
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,9.65
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,9.15
+POTATO,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.15
+POTATO,Islak,Akdeniz Bölgesi,10-20,Normal,4.37
+POTATO,Islak,Akdeniz Bölgesi,10-20,Güneşli,5.87
+POTATO,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,5.37
+POTATO,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.2
+POTATO,Islak,Akdeniz Bölgesi,20-30,Normal,5.3
+POTATO,Islak,Akdeniz Bölgesi,20-30,Güneşli,6.8
+POTATO,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,6.3
+POTATO,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,0.3
+POTATO,Islak,Akdeniz Bölgesi,30-40,Normal,6.3
+POTATO,Islak,Akdeniz Bölgesi,30-40,Güneşli,7.8
+POTATO,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,7.3
+POTATO,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,0.5
+POTATO,Islak,Akdeniz Bölgesi,40-50,Normal,7.2
+POTATO,Islak,Akdeniz Bölgesi,40-50,Güneşli,8.7
+POTATO,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,8.2
+POTATO,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,0.8
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.345
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,4.845
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,4.345
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.4
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,5.9
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,5.4
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,5.54
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,7.04
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,6.54
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,6.52
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,8.02
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,7.52
+POTATO,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.06
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,3.56
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.06
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.0
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.5
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,4.0
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.1
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.6
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,5.1
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.2
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.15
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.65
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.15
+POTATO,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.3
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,17.0
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,18.5
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,18.0
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,9.0
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,18.0
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,19.5
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,19.0
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,10.0
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,19.0
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,20.5
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,20.0
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,11.0
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,20.0
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,21.5
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,21.0
+Pirinc,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,12.0
+Pirinc,Kuru,Akdeniz Bölgesi,10-20,Normal,15.5
+Pirinc,Kuru,Akdeniz Bölgesi,10-20,Güneşli,17.0
+Pirinc,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,16.5
+Pirinc,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,7.5
+Pirinc,Kuru,Akdeniz Bölgesi,20-30,Normal,16.5
+Pirinc,Kuru,Akdeniz Bölgesi,20-30,Güneşli,18.0
+Pirinc,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,17.5
+Pirinc,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,8.5
+Pirinc,Kuru,Akdeniz Bölgesi,30-40,Normal,17.5
+Pirinc,Kuru,Akdeniz Bölgesi,30-40,Güneşli,19.0
+Pirinc,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,18.5
+Pirinc,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,9.5
+Pirinc,Kuru,Akdeniz Bölgesi,40-50,Normal,18.5
+Pirinc,Kuru,Akdeniz Bölgesi,40-50,Güneşli,20.0
+Pirinc,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,19.5
+Pirinc,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,10.5
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,13.5
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,15.0
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,14.5
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,5.5
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,14.5
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,16.0
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,15.5
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,6.5
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,15.5
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,17.0
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,16.5
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,7.5
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,16.5
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,18.0
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,17.5
+Pirinc,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,8.5
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,11.0
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,12.5
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,12.0
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,3.0
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,12.0
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,13.5
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,13.0
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,4.0
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,13.0
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,14.5
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,14.0
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,5.0
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,14.0
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,15.5
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,15.0
+Pirinc,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,6.0
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,13.0
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,14.5
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,14.0
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,5.0
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,14.0
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,15.5
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,15.0
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,6.0
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,15.0
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,16.5
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,16.0
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,7.0
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,16.0
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,17.5
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,17.0
+Pirinc,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,8.0
+Pirinc,Nemli,Akdeniz Bölgesi,10-20,Normal,11.5
+Pirinc,Nemli,Akdeniz Bölgesi,10-20,Güneşli,13.0
+Pirinc,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,12.5
+Pirinc,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,3.5
+Pirinc,Nemli,Akdeniz Bölgesi,20-30,Normal,12.5
+Pirinc,Nemli,Akdeniz Bölgesi,20-30,Güneşli,14.0
+Pirinc,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,13.5
+Pirinc,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,4.5
+Pirinc,Nemli,Akdeniz Bölgesi,30-40,Normal,13.5
+Pirinc,Nemli,Akdeniz Bölgesi,30-40,Güneşli,15.0
+Pirinc,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,14.5
+Pirinc,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,5.5
+Pirinc,Nemli,Akdeniz Bölgesi,40-50,Normal,14.5
+Pirinc,Nemli,Akdeniz Bölgesi,40-50,Güneşli,16.0
+Pirinc,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,15.5
+Pirinc,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,6.5
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,9.5
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,11.0
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,10.5
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,1.5
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,10.5
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,12.0
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,11.5
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,2.5
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,11.5
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,13.0
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,12.5
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,3.5
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,12.5
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,14.0
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,13.5
+Pirinc,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,4.5
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,7.0
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,8.5
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,8.0
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.8
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,8.0
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,9.5
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,9.0
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.8
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,9.0
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,10.5
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,10.0
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,1.0
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,10.0
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,11.5
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,11.0
+Pirinc,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,2.0
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,10.0
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,11.5
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,11.0
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,2.0
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,11.0
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,12.5
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,12.0
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,3.0
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,12.0
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,13.5
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,13.0
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,4.0
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,13.0
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,14.5
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,14.0
+Pirinc,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,5.0
+Pirinc,Islak,Akdeniz Bölgesi,10-20,Normal,8.5
+Pirinc,Islak,Akdeniz Bölgesi,10-20,Güneşli,10.0
+Pirinc,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,9.5
+Pirinc,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.5
+Pirinc,Islak,Akdeniz Bölgesi,20-30,Normal,9.5
+Pirinc,Islak,Akdeniz Bölgesi,20-30,Güneşli,11.0
+Pirinc,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,10.5
+Pirinc,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,1.5
+Pirinc,Islak,Akdeniz Bölgesi,30-40,Normal,10.5
+Pirinc,Islak,Akdeniz Bölgesi,30-40,Güneşli,12.0
+Pirinc,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,11.5
+Pirinc,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,2.5
+Pirinc,Islak,Akdeniz Bölgesi,40-50,Normal,11.5
+Pirinc,Islak,Akdeniz Bölgesi,40-50,Güneşli,13.0
+Pirinc,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,12.5
+Pirinc,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,3.5
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,6.5
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,8.0
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,7.5
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.5
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,7.5
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,9.0
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,8.5
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,8.5
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,10.0
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,9.5
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,9.5
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,11.0
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,10.5
+Pirinc,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,1.5
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,4.0
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,5.5
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,5.0
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.2
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,5.0
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,6.5
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,6.0
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.3
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,6.0
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,7.5
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,7.0
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.5
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,7.0
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,8.5
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,8.0
+Pirinc,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.8
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,6.12
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,7.62
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,7.12
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.5
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,7.12
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,8.62
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,8.12
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,8.12
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,9.62
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,9.12
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.12
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,9.12
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,10.62
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,10.12
+Kavun,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,1.12
+Kavun,Kuru,Akdeniz Bölgesi,10-20,Normal,5.58
+Kavun,Kuru,Akdeniz Bölgesi,10-20,Güneşli,7.08
+Kavun,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,6.58
+Kavun,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,0.3
+Kavun,Kuru,Akdeniz Bölgesi,20-30,Normal,6.58
+Kavun,Kuru,Akdeniz Bölgesi,20-30,Güneşli,8.08
+Kavun,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,7.58
+Kavun,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,0.5
+Kavun,Kuru,Akdeniz Bölgesi,30-40,Normal,7.58
+Kavun,Kuru,Akdeniz Bölgesi,30-40,Güneşli,9.08
+Kavun,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,8.58
+Kavun,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,0.8
+Kavun,Kuru,Akdeniz Bölgesi,40-50,Normal,8.58
+Kavun,Kuru,Akdeniz Bölgesi,40-50,Güneşli,10.08
+Kavun,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,9.58
+Kavun,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,0.58
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,4.86
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,6.36
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,5.86
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,5.86
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,7.36
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,6.86
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,6.86
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,8.36
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,7.86
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,7.86
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,9.36
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,8.86
+Kavun,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,3.96
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,5.46
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,4.96
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,4.96
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,6.46
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,5.96
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.2
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,5.96
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,7.46
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,6.96
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.3
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,6.96
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,8.46
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,7.96
+Kavun,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.5
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,4.68
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,6.18
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,5.68
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,5.68
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,7.18
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,6.68
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,6.68
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,8.18
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,7.68
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,7.68
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,9.18
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,8.68
+Kavun,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Kavun,Nemli,Akdeniz Bölgesi,10-20,Normal,4.14
+Kavun,Nemli,Akdeniz Bölgesi,10-20,Güneşli,5.64
+Kavun,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,5.14
+Kavun,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,0.2
+Kavun,Nemli,Akdeniz Bölgesi,20-30,Normal,5.14
+Kavun,Nemli,Akdeniz Bölgesi,20-30,Güneşli,6.64
+Kavun,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,6.14
+Kavun,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,0.3
+Kavun,Nemli,Akdeniz Bölgesi,30-40,Normal,6.14
+Kavun,Nemli,Akdeniz Bölgesi,30-40,Güneşli,7.64
+Kavun,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,7.14
+Kavun,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,0.5
+Kavun,Nemli,Akdeniz Bölgesi,40-50,Normal,7.14
+Kavun,Nemli,Akdeniz Bölgesi,40-50,Güneşli,8.64
+Kavun,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,8.14
+Kavun,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,0.8
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.42
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,4.92
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,4.42
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.42
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,5.92
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,5.42
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,5.42
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,6.92
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,6.42
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,6.42
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,7.92
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,7.42
+Kavun,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.52
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,4.02
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.52
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.52
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,5.02
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,4.52
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.52
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,6.02
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,5.52
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.2
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.52
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,7.02
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.52
+Kavun,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.3
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,3.6
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,5.1
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,4.6
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,4.6
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,6.1
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,5.6
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,5.6
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,7.1
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,6.6
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,6.6
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,8.1
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,7.6
+Kavun,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+Kavun,Islak,Akdeniz Bölgesi,10-20,Normal,3.06
+Kavun,Islak,Akdeniz Bölgesi,10-20,Güneşli,4.56
+Kavun,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,4.06
+Kavun,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Kavun,Islak,Akdeniz Bölgesi,20-30,Normal,4.06
+Kavun,Islak,Akdeniz Bölgesi,20-30,Güneşli,5.56
+Kavun,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,5.06
+Kavun,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,0.2
+Kavun,Islak,Akdeniz Bölgesi,30-40,Normal,5.06
+Kavun,Islak,Akdeniz Bölgesi,30-40,Güneşli,6.56
+Kavun,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,606.0
+Kavun,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,0.3
+Kavun,Islak,Akdeniz Bölgesi,40-50,Normal,6.06
+Kavun,Islak,Akdeniz Bölgesi,40-50,Güneşli,7.56
+Kavun,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,7.06
+Kavun,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,0.5
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,2.34
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,3.84
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,3.34
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,3.34
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,4.84
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,4.34
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.1
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,4.34
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,5.84
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,5.34
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.2
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,5.34
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,6.84
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,6.34
+Kavun,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.3
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,1.44
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,3.0
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,2.5
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,2.44
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.0
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,3.5
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,3.44
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.0
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,4.5
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.1
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,4.44
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.0
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,5.5
+Kavun,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.2
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,6.12
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,7.62
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,7.12
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.5
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,7.12
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,8.62
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,8.12
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,8.12
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,9.62
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,9.12
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.12
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,9.12
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,10.62
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,10.12
+Mısır,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,1.12
+Mısır,Kuru,Akdeniz Bölgesi,10-20,Normal,5.58
+Mısır,Kuru,Akdeniz Bölgesi,10-20,Güneşli,7.08
+Mısır,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,6.58
+Mısır,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,0.3
+Mısır,Kuru,Akdeniz Bölgesi,20-30,Normal,6.58
+Mısır,Kuru,Akdeniz Bölgesi,20-30,Güneşli,8.08
+Mısır,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,7.58
+Mısır,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,0.5
+Mısır,Kuru,Akdeniz Bölgesi,30-40,Normal,7.58
+Mısır,Kuru,Akdeniz Bölgesi,30-40,Güneşli,9.08
+Mısır,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,8.58
+Mısır,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,0.8
+Mısır,Kuru,Akdeniz Bölgesi,40-50,Normal,8.58
+Mısır,Kuru,Akdeniz Bölgesi,40-50,Güneşli,10.08
+Mısır,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,9.58
+Mısır,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,0.58
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,4.86
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,6.36
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,5.86
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,5.86
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,7.36
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,6.86
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,6.86
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,8.36
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,7.86
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,7.86
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,9.36
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,8.86
+Mısır,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,3.96
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,5.46
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,4.96
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,4.96
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,6.46
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,5.96
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.2
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,5.96
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,7.46
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,6.96
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.3
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,6.96
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,8.46
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,7.96
+Mısır,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.5
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,4.68
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,6.18
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,5.68
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,5.68
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,7.18
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,6.68
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,6.68
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,8.18
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,7.68
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,7.68
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,9.18
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,8.68
+Mısır,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Mısır,Nemli,Akdeniz Bölgesi,10-20,Normal,4.14
+Mısır,Nemli,Akdeniz Bölgesi,10-20,Güneşli,5.64
+Mısır,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,5.14
+Mısır,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,0.2
+Mısır,Nemli,Akdeniz Bölgesi,20-30,Normal,5.14
+Mısır,Nemli,Akdeniz Bölgesi,20-30,Güneşli,6.64
+Mısır,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,6.14
+Mısır,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,0.3
+Mısır,Nemli,Akdeniz Bölgesi,30-40,Normal,6.14
+Mısır,Nemli,Akdeniz Bölgesi,30-40,Güneşli,7.64
+Mısır,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,7.14
+Mısır,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,0.5
+Mısır,Nemli,Akdeniz Bölgesi,40-50,Normal,7.14
+Mısır,Nemli,Akdeniz Bölgesi,40-50,Güneşli,8.64
+Mısır,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,8.14
+Mısır,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,0.8
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.42
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,4.92
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,4.42
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.42
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,5.92
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,5.42
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,5.42
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,6.92
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,6.42
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,6.42
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,7.92
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,7.42
+Mısır,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.52
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,4.02
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.52
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.52
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,5.02
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,4.52
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.52
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,6.02
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,5.52
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.2
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.52
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,7.02
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.52
+Mısır,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.3
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,3.6
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,5.1
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,4.6
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,4.6
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,6.1
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,5.6
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,5.6
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,7.1
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,6.6
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,6.6
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,8.1
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,7.6
+Mısır,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+Mısır,Islak,Akdeniz Bölgesi,10-20,Normal,3.06
+Mısır,Islak,Akdeniz Bölgesi,10-20,Güneşli,4.56
+Mısır,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,4.06
+Mısır,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Mısır,Islak,Akdeniz Bölgesi,20-30,Normal,4.06
+Mısır,Islak,Akdeniz Bölgesi,20-30,Güneşli,5.56
+Mısır,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,5.06
+Mısır,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,0.2
+Mısır,Islak,Akdeniz Bölgesi,30-40,Normal,5.06
+Mısır,Islak,Akdeniz Bölgesi,30-40,Güneşli,6.56
+Mısır,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,606.0
+Mısır,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,0.3
+Mısır,Islak,Akdeniz Bölgesi,40-50,Normal,6.06
+Mısır,Islak,Akdeniz Bölgesi,40-50,Güneşli,7.56
+Mısır,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,7.06
+Mısır,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,0.5
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,2.34
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,3.84
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,3.34
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,3.34
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,4.84
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,4.34
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.1
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,4.34
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,5.84
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,5.34
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.2
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,5.34
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,6.84
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,6.34
+Mısır,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.3
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,1.44
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,3.0
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,2.5
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,2.44
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.0
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,3.5
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,3.44
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.0
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,4.5
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.1
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,4.44
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.0
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,5.5
+Mısır,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.2
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,5.66
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,7.0
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,6.5
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,6.5
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,8.0
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,7.5
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.5
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,7.0
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,8.5
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,8.0
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,8.6
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,10.1
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,9.6
+Salata,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.6
+Salata,Kuru,Akdeniz Bölgesi,10-20,Normal,5.05
+Salata,Kuru,Akdeniz Bölgesi,10-20,Güneşli,6.55
+Salata,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,6.05
+Salata,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,0.5
+Salata,Kuru,Akdeniz Bölgesi,20-30,Normal,6.0
+Salata,Kuru,Akdeniz Bölgesi,20-30,Güneşli,7.5
+Salata,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,7.0
+Salata,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,0.5
+Salata,Kuru,Akdeniz Bölgesi,30-40,Normal,7.1
+Salata,Kuru,Akdeniz Bölgesi,30-40,Güneşli,8.6
+Salata,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,8.1
+Salata,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,0.8
+Salata,Kuru,Akdeniz Bölgesi,40-50,Normal,8.0
+Salata,Kuru,Akdeniz Bölgesi,40-50,Güneşli,9.5
+Salata,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,9.0
+Salata,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,0.8
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,4.4
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,5.9
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,5.5
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,5.3
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,6.8
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,6.3
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,6.2
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,7.7
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,7.2
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,7.5
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,9.0
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,8.5
+Salata,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,3.6
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,5.1
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,4.6
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,4.5
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,6.0
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,5.5
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.2
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,5.6
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,7.1
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,6.6
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.2
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,6.6
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,8.1
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,7.6
+Salata,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.5
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,4.2
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,5.7
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,5.2
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,5.3
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,6.8
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,6.3
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,6.2
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,7.7
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,7.2
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,7.4
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,8.9
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,8.4
+Salata,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Salata,Nemli,Akdeniz Bölgesi,10-20,Normal,3.7
+Salata,Nemli,Akdeniz Bölgesi,10-20,Güneşli,5.2
+Salata,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,4.7
+Salata,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Salata,Nemli,Akdeniz Bölgesi,20-30,Normal,4.6
+Salata,Nemli,Akdeniz Bölgesi,20-30,Güneşli,6.1
+Salata,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,5.6
+Salata,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,0.2
+Salata,Nemli,Akdeniz Bölgesi,30-40,Normal,5.5
+Salata,Nemli,Akdeniz Bölgesi,30-40,Güneşli,7.0
+Salata,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,6.5
+Salata,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,0.3
+Salata,Nemli,Akdeniz Bölgesi,40-50,Normal,6.6
+Salata,Nemli,Akdeniz Bölgesi,40-50,Güneşli,8.1
+Salata,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,7.6
+Salata,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,0.5
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.1
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,4.6
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,4.1
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.2
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,5.7
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,5.2
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,5.1
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,6.6
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,6.1
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,6.0
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,7.5
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,7.0
+Salata,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.3
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,3.8
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.3
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.33
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.8
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,4.3
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.33
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.8
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,5.3
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.2
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.33
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.8
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.3
+Salata,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.3
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,3.33
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,4.8
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,4.3
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,4.33
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,5.8
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,5.3
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,5.33
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,6.8
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,6.3
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,6.33
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,7.8
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,7.3
+Salata,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+Salata,Islak,Akdeniz Bölgesi,10-20,Normal,2.83
+Salata,Islak,Akdeniz Bölgesi,10-20,Güneşli,4.33
+Salata,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,3.83
+Salata,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Salata,Islak,Akdeniz Bölgesi,20-30,Normal,3.83
+Salata,Islak,Akdeniz Bölgesi,20-30,Güneşli,5.33
+Salata,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,4.83
+Salata,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,0.1
+Salata,Islak,Akdeniz Bölgesi,30-40,Normal,4.83
+Salata,Islak,Akdeniz Bölgesi,30-40,Güneşli,6.33
+Salata,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,5.83
+Salata,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,0.2
+Salata,Islak,Akdeniz Bölgesi,40-50,Normal,5.83
+Salata,Islak,Akdeniz Bölgesi,40-50,Güneşli,7.33
+Salata,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,6.83
+Salata,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,0.3
+Salata,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,2.16
+Salata,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,3.66
+Salata,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,3.16
+Salata,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Salata,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,3.16
+Salata,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,4.66
+Salata,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,4.16
+Salata,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.1
+Salata,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,4.16
+Salata,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,5.66
+Salata,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,5.16
+Salata,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.2
+Salata,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,5.16
+Salata,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,6.66
+Salata,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,6.16
+Salata,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.3
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,1.33
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,2.83
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,2.33
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,2.33
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,3.83
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,3.33
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,3.33
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,4.83
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,4.33
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.1
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,4.33
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,5.83
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,5.33
+Salata,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.2
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,6.97
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,8.47
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,7.8
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,7.9
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,9.4
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,8.9
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,8.8
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,10.3
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,9.8
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,9.95
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,11.45
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,10.95
+Fasulye,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,1.95
+Fasulye,Kuru,Akdeniz Bölgesi,10-20,Normal,7.98
+Fasulye,Kuru,Akdeniz Bölgesi,10-20,Güneşli,9.48
+Fasulye,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,8.9
+Fasulye,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,0.8
+Fasulye,Kuru,Akdeniz Bölgesi,20-30,Normal,8.6
+Fasulye,Kuru,Akdeniz Bölgesi,20-30,Güneşli,10.1
+Fasulye,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,9.6
+Fasulye,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,0.6
+Fasulye,Kuru,Akdeniz Bölgesi,30-40,Normal,9.8
+Fasulye,Kuru,Akdeniz Bölgesi,30-40,Güneşli,11.3
+Fasulye,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,10.8
+Fasulye,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,1.8
+Fasulye,Kuru,Akdeniz Bölgesi,40-50,Normal,10.95
+Fasulye,Kuru,Akdeniz Bölgesi,40-50,Güneşli,12.45
+Fasulye,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,11.8
+Fasulye,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,2.8
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,5.53
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,7.03
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,6.5
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,6.5
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,8.0
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,7.5
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.5
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,7.6
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,9.0
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,8.6
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,8.55
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,10.05
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,9.5
+Fasulye,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.55
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,4.51
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,6.01
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,5.51
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,5.5
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,7.0
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,6.5
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.2
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,6.5
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,8.0
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,7.5
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.2
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,7.8
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,9.3
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,8.8
+Fasulye,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.8
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,5.33
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,6.83
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,6.33
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.5
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,6.2
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,7.7
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,7.2
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,7.4
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,8.9
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,8.4
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,8.34
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,9.85
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,7.35
+Fasulye,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.34
+Fasulye,Nemli,Akdeniz Bölgesi,10-20,Normal,4.71
+Fasulye,Nemli,Akdeniz Bölgesi,10-20,Güneşli,6.21
+Fasulye,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,5.71
+Fasulye,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Nemli,Akdeniz Bölgesi,20-30,Normal,5.8
+Fasulye,Nemli,Akdeniz Bölgesi,20-30,Güneşli,7.3
+Fasulye,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,6.8
+Fasulye,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,0.2
+Fasulye,Nemli,Akdeniz Bölgesi,30-40,Normal,6.6
+Fasulye,Nemli,Akdeniz Bölgesi,30-40,Güneşli,8.1
+Fasulye,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,7.6
+Fasulye,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,0.5
+Fasulye,Nemli,Akdeniz Bölgesi,40-50,Normal,7.9
+Fasulye,Nemli,Akdeniz Bölgesi,40-50,Güneşli,9.4
+Fasulye,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,8.9
+Fasulye,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,0.6
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.9
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,5.4
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,4.9
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.9
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,6.4
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,5.9
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.1
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,5.8
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,7.3
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,6.8
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,6.7
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,8.2
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,7.7
+Fasulye,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.4
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.8
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,4.3
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.8
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.7
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,5.2
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,4.7
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.9
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,6.4
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,5.9
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.5
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.8
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,7.3
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.8
+Fasulye,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.3
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,4.1
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,5.6
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,5.1
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,5.1
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,6.6
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,6.1
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.4
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,6.2
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,7.7
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,7.2
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,7.3
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,8.8
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,8.3
+Fasulye,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Fasulye,Islak,Akdeniz Bölgesi,10-20,Normal,3.5
+Fasulye,Islak,Akdeniz Bölgesi,10-20,Güneşli,5.0
+Fasulye,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,4.5
+Fasulye,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Islak,Akdeniz Bölgesi,20-30,Normal,4.6
+Fasulye,Islak,Akdeniz Bölgesi,20-30,Güneşli,6.1
+Fasulye,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,5.6
+Fasulye,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,0.2
+Fasulye,Islak,Akdeniz Bölgesi,30-40,Normal,5.7
+Fasulye,Islak,Akdeniz Bölgesi,30-40,Güneşli,7.2
+Fasulye,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,6.7
+Fasulye,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,0.3
+Fasulye,Islak,Akdeniz Bölgesi,40-50,Normal,6.6
+Fasulye,Islak,Akdeniz Bölgesi,40-50,Güneşli,8.1
+Fasulye,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,7.6
+Fasulye,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,0.5
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,2.6
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,4.1
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,3.6
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,3.6
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,5.1
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,4.6
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.1
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,4.7
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,6.2
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,5.7
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.1
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,5.6
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,7.1
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,6.6
+Fasulye,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.3
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,1.64
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,3.14
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,2.6
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,2.6
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.1
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,3.6
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,3.7
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.2
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,4.6
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.1
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,4.6
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.1
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,5.6
+Fasulye,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.1
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,10.54
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,12.0
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,11.54
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,2.54
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,11.5
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,13.0
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,12.5
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,3.5
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,12.4
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,14.0
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,13.4
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,4.4
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,13.6
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,15.0
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,14.6
+Buğday,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,5.6
+Buğday,Kuru,Akdeniz Bölgesi,10-20,Normal,9.6
+Buğday,Kuru,Akdeniz Bölgesi,10-20,Güneşli,11.0
+Buğday,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,10.6
+Buğday,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,1.6
+Buğday,Kuru,Akdeniz Bölgesi,20-30,Normal,10.7
+Buğday,Kuru,Akdeniz Bölgesi,20-30,Güneşli,12.2
+Buğday,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,11.7
+Buğday,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,2.7
+Buğday,Kuru,Akdeniz Bölgesi,30-40,Normal,11.6
+Buğday,Kuru,Akdeniz Bölgesi,30-40,Güneşli,13.1
+Buğday,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,12.6
+Buğday,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,3.6
+Buğday,Kuru,Akdeniz Bölgesi,40-50,Normal,12.5
+Buğday,Kuru,Akdeniz Bölgesi,40-50,Güneşli,14.0
+Buğday,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,13.5
+Buğday,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,4.5
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,8.4
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,9.9
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,9.4
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.4
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,9.5
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,11.0
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,10.5
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,1.5
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,10.4
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,11.9
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,11.4
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,2.4
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,11.35
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,12.85
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,12.35
+Buğday,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,3.3
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,6.9
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,8.4
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,7.9
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.5
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,7.82
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,9.32
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,8.82
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.8
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,8.85
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,10.35
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,9.85
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.85
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,9.7
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,11.2
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,10.7
+Buğday,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,1.7
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,8.06
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,9.56
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,9.0
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,9.1
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,10.6
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,10.1
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,1.1
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,10.25
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,11.75
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,11.25
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,2.25
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,11.1
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,12.6
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,12.1
+Buğday,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,3.1
+Buğday,Nemli,Akdeniz Bölgesi,10-20,Normal,7.15
+Buğday,Nemli,Akdeniz Bölgesi,10-20,Güneşli,8.65
+Buğday,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,8.15
+Buğday,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,0.8
+Buğday,Nemli,Akdeniz Bölgesi,20-30,Normal,8.1
+Buğday,Nemli,Akdeniz Bölgesi,20-30,Güneşli,9.6
+Buğday,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,9.1
+Buğday,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,0.1
+Buğday,Nemli,Akdeniz Bölgesi,30-40,Normal,9.2
+Buğday,Nemli,Akdeniz Bölgesi,30-40,Güneşli,10.7
+Buğday,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,10.2
+Buğday,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,1.2
+Buğday,Nemli,Akdeniz Bölgesi,40-50,Normal,10.1
+Buğday,Nemli,Akdeniz Bölgesi,40-50,Güneşli,11.6
+Buğday,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,11.1
+Buğday,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,2.1
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,5.88
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,7.38
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,6.88
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.3
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,6.8
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,8.6
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,7.8
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.6
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,7.9
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,9.4
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,8.9
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,8.7
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,10.5
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,9.7
+Buğday,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.7
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,4.34
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,5.84
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,5.34
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.2
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,5.3
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,6.8
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,6.3
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.3
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,6.35
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,7.85
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,7.35
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.5
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,7.32
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,8.82
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,8.32
+Buğday,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.8
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,6.2
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,7.7
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,7.2
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.5
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,7.2
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,8.7
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,8.2
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,8.3
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,9.8
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,9.3
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,9.4
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,10.9
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,10.4
+Buğday,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,1.4
+Buğday,Islak,Akdeniz Bölgesi,10-20,Normal,5.3
+Buğday,Islak,Akdeniz Bölgesi,10-20,Güneşli,6.8
+Buğday,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,6.3
+Buğday,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.3
+Buğday,Islak,Akdeniz Bölgesi,20-30,Normal,6.25
+Buğday,Islak,Akdeniz Bölgesi,20-30,Güneşli,7.75
+Buğday,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,7.25
+Buğday,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,0.5
+Buğday,Islak,Akdeniz Bölgesi,30-40,Normal,7.35
+Buğday,Islak,Akdeniz Bölgesi,30-40,Güneşli,8.85
+Buğday,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,8.35
+Buğday,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,0.8
+Buğday,Islak,Akdeniz Bölgesi,40-50,Normal,8.34
+Buğday,Islak,Akdeniz Bölgesi,40-50,Güneşli,9.84
+Buğday,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,9.34
+Buğday,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,0.34
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,4.0
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,5.5
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,5.0
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,5.06
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,6.56
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,6.06
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,6.04
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,7.56
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,7.06
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,7.05
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,8.56
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,8.05
+Buğday,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.48
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,3.98
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.48
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.48
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.98
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,4.48
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.48
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.98
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,5.48
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.2
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.48
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.98
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.48
+Buğday,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.3
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,6.12
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,7.62
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,7.12
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.5
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,7.12
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,8.62
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,8.12
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,8.12
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,9.62
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,9.12
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.12
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,9.12
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,10.62
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,10.12
+Çilek,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,1.12
+Çilek,Kuru,Akdeniz Bölgesi,10-20,Normal,5.58
+Çilek,Kuru,Akdeniz Bölgesi,10-20,Güneşli,7.08
+Çilek,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,6.58
+Çilek,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,0.3
+Çilek,Kuru,Akdeniz Bölgesi,20-30,Normal,6.58
+Çilek,Kuru,Akdeniz Bölgesi,20-30,Güneşli,8.08
+Çilek,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,7.58
+Çilek,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,0.5
+Çilek,Kuru,Akdeniz Bölgesi,30-40,Normal,7.58
+Çilek,Kuru,Akdeniz Bölgesi,30-40,Güneşli,9.08
+Çilek,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,8.58
+Çilek,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,0.8
+Çilek,Kuru,Akdeniz Bölgesi,40-50,Normal,8.58
+Çilek,Kuru,Akdeniz Bölgesi,40-50,Güneşli,10.08
+Çilek,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,9.58
+Çilek,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,0.58
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,4.86
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,6.36
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,5.86
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,5.86
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,7.36
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,6.86
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,6.86
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,8.36
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,7.86
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,7.86
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,9.36
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,8.86
+Çilek,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,3.96
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,5.46
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,4.96
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,4.96
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,6.46
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,5.96
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.2
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,5.96
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,7.46
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,6.96
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.3
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,6.96
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,8.46
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,7.96
+Çilek,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.5
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,4.68
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,6.18
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,5.68
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,5.68
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,7.18
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,6.68
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,6.68
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,8.18
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,7.68
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,7.68
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,9.18
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,8.68
+Çilek,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Çilek,Nemli,Akdeniz Bölgesi,10-20,Normal,4.14
+Çilek,Nemli,Akdeniz Bölgesi,10-20,Güneşli,5.64
+Çilek,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,5.14
+Çilek,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,0.2
+Çilek,Nemli,Akdeniz Bölgesi,20-30,Normal,5.14
+Çilek,Nemli,Akdeniz Bölgesi,20-30,Güneşli,6.64
+Çilek,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,6.14
+Çilek,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,0.3
+Çilek,Nemli,Akdeniz Bölgesi,30-40,Normal,6.14
+Çilek,Nemli,Akdeniz Bölgesi,30-40,Güneşli,7.64
+Çilek,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,7.14
+Çilek,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,0.5
+Çilek,Nemli,Akdeniz Bölgesi,40-50,Normal,7.14
+Çilek,Nemli,Akdeniz Bölgesi,40-50,Güneşli,8.64
+Çilek,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,8.14
+Çilek,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,0.8
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.42
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,4.92
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,4.42
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.42
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,5.92
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,5.42
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,5.42
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,6.92
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,6.42
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,6.42
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,7.92
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,7.42
+Çilek,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.52
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,4.02
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.52
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.52
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,5.02
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,4.52
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.52
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,6.02
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,5.52
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.2
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.52
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,7.02
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.52
+Çilek,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.3
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,3.6
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,5.1
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,4.6
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,4.6
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,6.1
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,5.6
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,5.6
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,7.1
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,6.6
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,6.6
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,8.1
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,7.6
+Çilek,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+Çilek,Islak,Akdeniz Bölgesi,10-20,Normal,3.06
+Çilek,Islak,Akdeniz Bölgesi,10-20,Güneşli,4.56
+Çilek,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,4.06
+Çilek,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Çilek,Islak,Akdeniz Bölgesi,20-30,Normal,4.06
+Çilek,Islak,Akdeniz Bölgesi,20-30,Güneşli,5.56
+Çilek,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,5.06
+Çilek,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,0.2
+Çilek,Islak,Akdeniz Bölgesi,30-40,Normal,5.06
+Çilek,Islak,Akdeniz Bölgesi,30-40,Güneşli,6.56
+Çilek,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,606.0
+Çilek,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,0.3
+Çilek,Islak,Akdeniz Bölgesi,40-50,Normal,6.06
+Çilek,Islak,Akdeniz Bölgesi,40-50,Güneşli,7.56
+Çilek,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,7.06
+Çilek,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,0.5
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,2.34
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,3.84
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,3.34
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,3.34
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,4.84
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,4.34
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.1
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,4.34
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,5.84
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,5.34
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.2
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,5.34
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,6.84
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,6.34
+Çilek,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.3
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,1.44
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,3.0
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,2.5
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,2.44
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.0
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,3.5
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,3.44
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.0
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,4.5
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.1
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,4.44
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.0
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,5.5
+Çilek,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.2
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,8.75
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,10.25
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,9.65
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.75
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,9.85
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,11.35
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,10.75
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.85
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,10.75
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,12.25
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,11.65
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,2.75
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,11.75
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,13.25
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,12.65
+Pamuk,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,3.75
+Pamuk,Kuru,Akdeniz Bölgesi,10-20,Normal,7.98
+Pamuk,Kuru,Akdeniz Bölgesi,10-20,Güneşli,9.4
+Pamuk,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,8.8
+Pamuk,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,0.25
+Pamuk,Kuru,Akdeniz Bölgesi,20-30,Normal,8.98
+Pamuk,Kuru,Akdeniz Bölgesi,20-30,Güneşli,10.4
+Pamuk,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,9.7
+Pamuk,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,0.98
+Pamuk,Kuru,Akdeniz Bölgesi,30-40,Normal,9.98
+Pamuk,Kuru,Akdeniz Bölgesi,30-40,Güneşli,11.4
+Pamuk,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,10.8
+Pamuk,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,1.98
+Pamuk,Kuru,Akdeniz Bölgesi,40-50,Normal,10.9
+Pamuk,Kuru,Akdeniz Bölgesi,40-50,Güneşli,12.4
+Pamuk,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,11.8
+Pamuk,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,2.7
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,6.95
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,8.45
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,7.8
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,7.95
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,9.45
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,8.8
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.5
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,8.95
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,10.45
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,9.9
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.95
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,9.9
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,11.4
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,10.9
+Pamuk,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,1.9
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,5.65
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,7.15
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,6.6
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,6.6
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,8.1
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,7.6
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.3
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,7.68
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,8.18
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,8.6
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.8
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,8.65
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,10.15
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,9.65
+Pamuk,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.65
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,6.695
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,8.2
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,7.7
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.6
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,7.695
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,9.2
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,8.7
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,8.7
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,10.2
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,9.6
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.7
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,9.5
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,11.0
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,10.5
+Pamuk,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,1.5
+Pamuk,Nemli,Akdeniz Bölgesi,10-20,Normal,5.92
+Pamuk,Nemli,Akdeniz Bölgesi,10-20,Güneşli,7.42
+Pamuk,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,6.9
+Pamuk,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Pamuk,Nemli,Akdeniz Bölgesi,20-30,Normal,6.92
+Pamuk,Nemli,Akdeniz Bölgesi,20-30,Güneşli,8.42
+Pamuk,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,7.9
+Pamuk,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,0.5
+Pamuk,Nemli,Akdeniz Bölgesi,30-40,Normal,7.92
+Pamuk,Nemli,Akdeniz Bölgesi,30-40,Güneşli,9.42
+Pamuk,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,8.9
+Pamuk,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,0.8
+Pamuk,Nemli,Akdeniz Bölgesi,40-50,Normal,8.92
+Pamuk,Nemli,Akdeniz Bölgesi,40-50,Güneşli,10.42
+Pamuk,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,9.9
+Pamuk,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,0.92
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,4.89
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,6.39
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,5.8
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,5.6
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,7.1
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,6.6
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,6.5
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,8.1
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,7.5
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,7.5
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,9.0
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,8.5
+Pamuk,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,3.65
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,5.15
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,4.65
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,4.65
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,6.15
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,5.65
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.2
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,5.0
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,6.5
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,6.0
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.3
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.15
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.65
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.2
+Pamuk,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.2
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,5.15
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,6.65
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,6.15
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,6.15
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,7.65
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,7.15
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,7.15
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,8.65
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,8.1
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,8.15
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,9.65
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,9.15
+Pamuk,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.15
+Pamuk,Islak,Akdeniz Bölgesi,10-20,Normal,4.37
+Pamuk,Islak,Akdeniz Bölgesi,10-20,Güneşli,5.87
+Pamuk,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,5.3
+Pamuk,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+Pamuk,Islak,Akdeniz Bölgesi,20-30,Normal,5.3
+Pamuk,Islak,Akdeniz Bölgesi,20-30,Güneşli,6.8
+Pamuk,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,6.3
+Pamuk,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,0.2
+Pamuk,Islak,Akdeniz Bölgesi,30-40,Normal,6.3
+Pamuk,Islak,Akdeniz Bölgesi,30-40,Güneşli,7.8
+Pamuk,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,7.3
+Pamuk,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,0.3
+Pamuk,Islak,Akdeniz Bölgesi,40-50,Normal,7.2
+Pamuk,Islak,Akdeniz Bölgesi,40-50,Güneşli,8.7
+Pamuk,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,8.2
+Pamuk,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,0.8
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.345
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,4.85
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,4.4
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.4
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,5.9
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,5.4
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.1
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,5.54
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,7.04
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,6.5
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.2
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,6.52
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,8.02
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,7.5
+Pamuk,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.3
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.06
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,3.56
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.0
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.0
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.5
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,4.0
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.1
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.6
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,5.1
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.1
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.15
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.65
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.15
+Pamuk,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.2
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,10.54
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,12.0
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,11.54
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,2.54
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,11.5
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,13.0
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,12.5
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,3.5
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,12.4
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,14.0
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,13.4
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,4.4
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,13.6
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,15.0
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,14.6
+Karpuz,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,5.6
+Karpuz,Kuru,Akdeniz Bölgesi,10-20,Normal,9.6
+Karpuz,Kuru,Akdeniz Bölgesi,10-20,Güneşli,11.0
+Karpuz,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,10.6
+Karpuz,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,1.6
+Karpuz,Kuru,Akdeniz Bölgesi,20-30,Normal,10.7
+Karpuz,Kuru,Akdeniz Bölgesi,20-30,Güneşli,12.2
+Karpuz,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,11.7
+Karpuz,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,2.7
+Karpuz,Kuru,Akdeniz Bölgesi,30-40,Normal,11.6
+Karpuz,Kuru,Akdeniz Bölgesi,30-40,Güneşli,13.1
+Karpuz,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,12.6
+Karpuz,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,3.6
+Karpuz,Kuru,Akdeniz Bölgesi,40-50,Normal,12.5
+Karpuz,Kuru,Akdeniz Bölgesi,40-50,Güneşli,14.0
+Karpuz,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,13.5
+Karpuz,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,4.5
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,8.4
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,9.9
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,9.4
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.4
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,9.5
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,11.0
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,10.5
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,1.5
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,10.4
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,11.9
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,11.4
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,2.4
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,11.35
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,12.85
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,12.35
+Karpuz,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,3.3
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,6.9
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,8.4
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,7.9
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.5
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,7.82
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,9.32
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,8.82
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.8
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,8.85
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,10.35
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,9.85
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.85
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,9.7
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,11.2
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,10.7
+Karpuz,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,1.7
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,8.06
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,9.56
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,9.0
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,9.1
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,10.6
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,10.1
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,1.1
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,10.25
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,11.75
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,11.25
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,2.25
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,11.1
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,12.6
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,12.1
+Karpuz,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,3.1
+Karpuz,Nemli,Akdeniz Bölgesi,10-20,Normal,7.15
+Karpuz,Nemli,Akdeniz Bölgesi,10-20,Güneşli,8.65
+Karpuz,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,8.15
+Karpuz,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,0.8
+Karpuz,Nemli,Akdeniz Bölgesi,20-30,Normal,8.1
+Karpuz,Nemli,Akdeniz Bölgesi,20-30,Güneşli,9.6
+Karpuz,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,9.1
+Karpuz,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,0.1
+Karpuz,Nemli,Akdeniz Bölgesi,30-40,Normal,9.2
+Karpuz,Nemli,Akdeniz Bölgesi,30-40,Güneşli,10.7
+Karpuz,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,10.2
+Karpuz,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,1.2
+Karpuz,Nemli,Akdeniz Bölgesi,40-50,Normal,10.1
+Karpuz,Nemli,Akdeniz Bölgesi,40-50,Güneşli,11.6
+Karpuz,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,11.1
+Karpuz,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,2.1
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,5.88
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,7.38
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,6.88
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.3
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,6.8
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,8.6
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,7.8
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.6
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,7.9
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,9.4
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,8.9
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.8
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,8.7
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,10.5
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,9.7
+Karpuz,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.7
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,4.34
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,5.84
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,5.34
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.2
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,5.3
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,6.8
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,6.3
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.3
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,6.35
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,7.85
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,7.35
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.5
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,7.32
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,8.82
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,8.32
+Karpuz,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.8
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,6.2
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,7.7
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,7.2
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.5
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,7.2
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,8.7
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,8.2
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,8.3
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,9.8
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,9.3
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,9.4
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,10.9
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,10.4
+Karpuz,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,1.4
+Karpuz,Islak,Akdeniz Bölgesi,10-20,Normal,5.3
+Karpuz,Islak,Akdeniz Bölgesi,10-20,Güneşli,6.8
+Karpuz,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,6.3
+Karpuz,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.3
+Karpuz,Islak,Akdeniz Bölgesi,20-30,Normal,6.25
+Karpuz,Islak,Akdeniz Bölgesi,20-30,Güneşli,7.75
+Karpuz,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,7.25
+Karpuz,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,0.5
+Karpuz,Islak,Akdeniz Bölgesi,30-40,Normal,7.35
+Karpuz,Islak,Akdeniz Bölgesi,30-40,Güneşli,8.85
+Karpuz,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,8.35
+Karpuz,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,0.8
+Karpuz,Islak,Akdeniz Bölgesi,40-50,Normal,8.34
+Karpuz,Islak,Akdeniz Bölgesi,40-50,Güneşli,9.84
+Karpuz,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,9.34
+Karpuz,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,0.34
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,4.0
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,5.5
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,5.0
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,5.06
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,6.56
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,6.06
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,6.04
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,7.56
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,7.06
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,7.05
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,8.56
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,8.05
+Karpuz,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.48
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,3.98
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.48
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.48
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.98
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,4.48
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.48
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.98
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,5.48
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.2
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.48
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.98
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.48
+Karpuz,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.3
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,6.12
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,7.62
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,7.12
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.5
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,7.12
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,8.62
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,8.12
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.8
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,8.12
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,9.62
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,9.12
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.12
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,9.12
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,10.62
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,10.12
+TOMATO,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,1.12
+TOMATO,Kuru,Akdeniz Bölgesi,10-20,Normal,5.58
+TOMATO,Kuru,Akdeniz Bölgesi,10-20,Güneşli,7.08
+TOMATO,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,6.58
+TOMATO,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,0.3
+TOMATO,Kuru,Akdeniz Bölgesi,20-30,Normal,6.58
+TOMATO,Kuru,Akdeniz Bölgesi,20-30,Güneşli,8.08
+TOMATO,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,7.58
+TOMATO,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,0.5
+TOMATO,Kuru,Akdeniz Bölgesi,30-40,Normal,7.58
+TOMATO,Kuru,Akdeniz Bölgesi,30-40,Güneşli,9.08
+TOMATO,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,8.58
+TOMATO,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,0.8
+TOMATO,Kuru,Akdeniz Bölgesi,40-50,Normal,8.58
+TOMATO,Kuru,Akdeniz Bölgesi,40-50,Güneşli,10.08
+TOMATO,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,9.58
+TOMATO,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,0.58
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,4.86
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,6.36
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,5.86
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,5.86
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,7.36
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,6.86
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,6.86
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,8.36
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,7.86
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,7.86
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,9.36
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,8.86
+TOMATO,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,3.96
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,5.46
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,4.96
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,4.96
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,6.46
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,5.96
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.2
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,5.96
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,7.46
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,6.96
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.3
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,6.96
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,8.46
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,7.96
+TOMATO,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.5
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,4.68
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,6.18
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,5.68
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,5.68
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,7.18
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,6.68
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,6.68
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,8.18
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,7.68
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,7.68
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,9.18
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,8.68
+TOMATO,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+TOMATO,Nemli,Akdeniz Bölgesi,10-20,Normal,4.14
+TOMATO,Nemli,Akdeniz Bölgesi,10-20,Güneşli,5.64
+TOMATO,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,5.14
+TOMATO,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,0.2
+TOMATO,Nemli,Akdeniz Bölgesi,20-30,Normal,5.14
+TOMATO,Nemli,Akdeniz Bölgesi,20-30,Güneşli,6.64
+TOMATO,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,6.14
+TOMATO,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,0.3
+TOMATO,Nemli,Akdeniz Bölgesi,30-40,Normal,6.14
+TOMATO,Nemli,Akdeniz Bölgesi,30-40,Güneşli,7.64
+TOMATO,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,7.14
+TOMATO,Nemli,Akdeniz Bölgesi,30-40,Yağmurlu,0.5
+TOMATO,Nemli,Akdeniz Bölgesi,40-50,Normal,7.14
+TOMATO,Nemli,Akdeniz Bölgesi,40-50,Güneşli,8.64
+TOMATO,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,8.14
+TOMATO,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,0.8
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.42
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,4.92
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,4.42
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.42
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,5.92
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,5.42
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,5.42
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,6.92
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,6.42
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,6.42
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,7.92
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,7.42
+TOMATO,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.52
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,4.02
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.52
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.52
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,5.02
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,4.52
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.52
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,6.02
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,5.52
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.2
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.52
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,7.02
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,6.52
+TOMATO,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.3
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,3.6
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,5.1
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,4.6
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,4.6
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,6.1
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,5.6
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,5.6
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,7.1
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,6.6
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,6.6
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,8.1
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,7.6
+TOMATO,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+TOMATO,Islak,Akdeniz Bölgesi,10-20,Normal,3.06
+TOMATO,Islak,Akdeniz Bölgesi,10-20,Güneşli,4.56
+TOMATO,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,4.06
+TOMATO,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,0.1
+TOMATO,Islak,Akdeniz Bölgesi,20-30,Normal,4.06
+TOMATO,Islak,Akdeniz Bölgesi,20-30,Güneşli,5.56
+TOMATO,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,5.06
+TOMATO,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,0.2
+TOMATO,Islak,Akdeniz Bölgesi,30-40,Normal,5.06
+TOMATO,Islak,Akdeniz Bölgesi,30-40,Güneşli,6.56
+TOMATO,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,606.0
+TOMATO,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,0.3
+TOMATO,Islak,Akdeniz Bölgesi,40-50,Normal,6.06
+TOMATO,Islak,Akdeniz Bölgesi,40-50,Güneşli,7.56
+TOMATO,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,7.06
+TOMATO,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,0.5
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,2.34
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,3.84
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,3.34
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,3.34
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,4.84
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,4.34
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.1
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,4.34
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,5.84
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,5.34
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.2
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,5.34
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,6.84
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,6.34
+TOMATO,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.3
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,1.44
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,3.0
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,2.5
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,0.1
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,2.44
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.0
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,3.5
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,3.44
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.0
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,4.5
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.1
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,4.44
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.0
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,5.5
+TOMATO,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.2
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Normal,4.25
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,5.75
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,5.25
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.2
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Normal,5.25
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,6.75
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,6.25
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.3
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Normal,6.25
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,7.75
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,7.25
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.5
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Normal,7.25
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,8.75
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,8.25
+Soğan,Kuru,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,0.8
+Soğan,Kuru,Akdeniz Bölgesi,10-20,Normal,4.125
+Soğan,Kuru,Akdeniz Bölgesi,10-20,Güneşli,5.625
+Soğan,Kuru,Akdeniz Bölgesi,10-20,Ruzgarlı,5.125
+Soğan,Kuru,Akdeniz Bölgesi,10-20,Yağmurlu,0.2
+Soğan,Kuru,Akdeniz Bölgesi,20-30,Normal,5.125
+Soğan,Kuru,Akdeniz Bölgesi,20-30,Güneşli,6.625
+Soğan,Kuru,Akdeniz Bölgesi,20-30,Ruzgarlı,6.125
+Soğan,Kuru,Akdeniz Bölgesi,20-30,Yağmurlu,0.3
+Soğan,Kuru,Akdeniz Bölgesi,30-40,Normal,6.125
+Soğan,Kuru,Akdeniz Bölgesi,30-40,Güneşli,7.625
+Soğan,Kuru,Akdeniz Bölgesi,30-40,Ruzgarlı,7.125
+Soğan,Kuru,Akdeniz Bölgesi,30-40,Yağmurlu,0.5
+Soğan,Kuru,Akdeniz Bölgesi,40-50,Normal,7.125
+Soğan,Kuru,Akdeniz Bölgesi,40-50,Güneşli,8.625
+Soğan,Kuru,Akdeniz Bölgesi,40-50,Ruzgarlı,8.125
+Soğan,Kuru,Akdeniz Bölgesi,40-50,Yağmurlu,0.8
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.375
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,4.875
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,4.375
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.375
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,5.875
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Ruzgarlı,5.375
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,0.2
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Normal,5.375
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,6.875
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,6.375
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,0.3
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Normal,6.375
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,7.875
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,7.375
+Soğan,Kuru,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,0.5
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.75
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,4.25
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Normal,3.75
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,0.1
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,3.75
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,5.25
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Normal,4.75
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,0.1
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,4.75
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,6.25
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Normal,5.75
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,0.2
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,5.75
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,7.25
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,6.75
+Soğan,Kuru,Marmara Ege Karadeniz Bölgesi,40-50,Normal,0.3
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,3.25
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,4.75
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,4.25
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,10-20,Normal,0.1
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,4.25
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,5.75
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,5.25
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,20-30,Normal,0.2
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,5.25
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,6.75
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,6.25
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,30-40,Normal,0.3
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,6.25
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,7.75
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Yağmurlu,7.25
+Soğan,Nemli,İç ve Doğu Anadolu Bölgesi,40-50,Normal,0.5
+Soğan,Nemli,Akdeniz Bölgesi,10-20,Güneşli,2.875
+Soğan,Nemli,Akdeniz Bölgesi,10-20,Ruzgarlı,4.375
+Soğan,Nemli,Akdeniz Bölgesi,10-20,Yağmurlu,3.875
+Soğan,Nemli,Akdeniz Bölgesi,10-20,Normal,0.1
+Soğan,Nemli,Akdeniz Bölgesi,20-30,Güneşli,3.875
+Soğan,Nemli,Akdeniz Bölgesi,20-30,Ruzgarlı,5.375
+Soğan,Nemli,Akdeniz Bölgesi,20-30,Yağmurlu,4.875
+Soğan,Nemli,Akdeniz Bölgesi,20-30,Normal,0.1
+Soğan,Nemli,Akdeniz Bölgesi,30-40,Güneşli,4.875
+Soğan,Nemli,Akdeniz Bölgesi,30-40,Normal,6.375
+Soğan,Nemli,Akdeniz Bölgesi,30-40,Güneşli,5.875
+Soğan,Nemli,Akdeniz Bölgesi,30-40,Ruzgarlı,0.2
+Soğan,Nemli,Akdeniz Bölgesi,40-50,Yağmurlu,5.875
+Soğan,Nemli,Akdeniz Bölgesi,40-50,Normal,7.375
+Soğan,Nemli,Akdeniz Bölgesi,40-50,Güneşli,6.875
+Soğan,Nemli,Akdeniz Bölgesi,40-50,Ruzgarlı,0.3
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,2.375
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.875
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,3.375
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,0.1
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,3.375
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.875
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.375
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,0.1
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,4.375
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,5.875
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Normal,5.375
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,0.2
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,5.575
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,6.875
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Normal,6.575
+Soğan,Nemli,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,0.3
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,1.75
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,3.25
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Normal,2.75
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,0.1
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,2.75
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,4.25
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Normal,3.75
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,0.1
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,3.75
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,5.25
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Normal,4.75
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,0.1
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,4.75
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,6.25
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Normal,5.75
+Soğan,Nemli,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,0.2
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Normal,2.5
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Güneşli,4.0
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Ruzgarlı,3.5
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,10-20,Yağmurlu,0.1
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Normal,3.5
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Güneşli,5.0
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Ruzgarlı,4.5
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,20-30,Yağmurlu,0.1
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Normal,4.5
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Güneşli,6.0
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Ruzgarlı,5.5
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,30-40,Yağmurlu,0.2
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,5.5
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Normal,7.0
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Güneşli,6.5
+Soğan,Islak,İç ve Doğu Anadolu Bölgesi,40-50,Ruzgarlı,0.3
+Soğan,Islak,Akdeniz Bölgesi,10-20,Yağmurlu,2.125
+Soğan,Islak,Akdeniz Bölgesi,10-20,Normal,3.625
+Soğan,Islak,Akdeniz Bölgesi,10-20,Güneşli,3.125
+Soğan,Islak,Akdeniz Bölgesi,10-20,Ruzgarlı,0.1
+Soğan,Islak,Akdeniz Bölgesi,20-30,Yağmurlu,3.125
+Soğan,Islak,Akdeniz Bölgesi,20-30,Normal,4.625
+Soğan,Islak,Akdeniz Bölgesi,20-30,Güneşli,4.125
+Soğan,Islak,Akdeniz Bölgesi,20-30,Ruzgarlı,0.1
+Soğan,Islak,Akdeniz Bölgesi,30-40,Yağmurlu,4.125
+Soğan,Islak,Akdeniz Bölgesi,30-40,Normal,5.625
+Soğan,Islak,Akdeniz Bölgesi,30-40,Güneşli,5.125
+Soğan,Islak,Akdeniz Bölgesi,30-40,Ruzgarlı,0.2
+Soğan,Islak,Akdeniz Bölgesi,40-50,Yağmurlu,5.125
+Soğan,Islak,Akdeniz Bölgesi,40-50,Normal,6.625
+Soğan,Islak,Akdeniz Bölgesi,40-50,Güneşli,6.125
+Soğan,Islak,Akdeniz Bölgesi,40-50,Ruzgarlı,0.3
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,10-20,Yağmurlu,1.625
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,10-20,Normal,3.125
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,10-20,Güneşli,2.625
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,10-20,Ruzgarlı,0.1
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,20-30,Yağmurlu,2.625
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,4.125
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,20-30,Güneşli,3.625
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,20-30,Normal,0.1
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,30-40,Güneşli,3.625
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,30-40,Ruzgarlı,5.125
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,30-40,Yağmurlu,4.625
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,30-40,Normal,0.1
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,40-50,Güneşli,4.625
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,40-50,Ruzgarlı,6.125
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,40-50,Yağmurlu,5.625
+Soğan,Islak,Güneydoğu Anadolu Bölgesi,40-50,Normal,0.2
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Güneşli,1.625
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Ruzgarlı,3.125
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Yağmurlu,2.625
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,10-20,Normal,0.1
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Normal,2.625
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Güneşli,4.125
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Ruzgarlı,3.625
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,20-30,Yağmurlu,0.1
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Normal,3.625
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Güneşli,5.125
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Ruzgarlı,4.625
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,30-40,Yağmurlu,0.1
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Normal,4.625
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Güneşli,6.125
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Ruzgarlı,5.625
+Soğan,Islak,Marmara Ege Karadeniz Bölgesi,40-50,Yağmurlu,0.2
